@@ -20,7 +20,7 @@ public class LoginCase extends BaseCase{
     LoginHandle loginHandle;
     @Parameters({"url","browser"})
     @BeforeClass
-    public void beforeClass(String url ,String browser) {
+    public void beforeClass(String url,String browser) {
         //应该引入log4j的目录以及文件
         PropertyConfigurator.configure("log4j.properties");
         logger.debug("初始化浏览器");
