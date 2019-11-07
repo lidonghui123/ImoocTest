@@ -1,0 +1,13 @@
+2019-11-01 14:56:50 - [ DEBUG ]  addproject.XxgcCreate.InitDriver(XxgcCreate.java:42) main addproject.XxgcCreate - InitDriver-debug 
+2019-11-01 14:56:57 - [ DEBUG ]  addproject.XxgcCreate.ProjectinInfo(XxgcCreate.java:123) main addproject.XxgcCreate - ProjectinInfo-debug 
+2019-11-01 14:56:57 - [ ERROR ]  addproject.XxgcCreate.ProjectinInfo(XxgcCreate.java:124) main addproject.XxgcCreate - ProjectinInfo-error 
+2019-11-01 14:56:57 - [ DEBUG ]  addproject.XxgcCreate.UserLogin(XxgcCreate.java:73) main addproject.XxgcCreate - UserLogin-debug 
+2019-11-01 14:56:57 - [ ERROR ]  addproject.XxgcCreate.UserLogin(XxgcCreate.java:74) main addproject.XxgcCreate - UserLogin-error 
+2019-11-01 14:56:59 - [ DEBUG ]  addproject.XxgcCreate.GetByLocal(XxgcCreate.java:221) main addproject.XxgcCreate - GetByLocal.debug 
+2019-11-01 14:56:59 - [ DEBUG ]  addproject.XxgcCreate.GetByLocal(XxgcCreate.java:221) main addproject.XxgcCreate - GetByLocal.debug 
+2019-11-01 14:56:59 - [ DEBUG ]  addproject.XxgcCreate.GetByLocal(XxgcCreate.java:221) main addproject.XxgcCreate - GetByLocal.debug 
+2019-11-01 14:57:02 - [ DEBUG ]  addproject.XxgcCreate.GetByLocal(XxgcCreate.java:221) main addproject.XxgcCreate - GetByLocal.debug 
+2019-11-01 14:57:02 - [ DEBUG ]  addproject.XxgcCreate.GetByLocal(XxgcCreate.java:221) main addproject.XxgcCreate - GetByLocal.debug 
+2019-11-01 14:57:02 - [ DEBUG ]  addproject.XxgcCreate.GetByLocal(XxgcCreate.java:221) main addproject.XxgcCreate - GetByLocal.debug 
+2019-11-01 14:57:04 - [ DEBUG ]  addproject.XxgcCreate.GetByLocal(XxgcCreate.java:221) main addproject.XxgcCreate - GetByLocal.debug 
+2019-11-01 14:57:06 - [ DEBUG ]  addproject.XxgcCreate.GetByLocal(XxgcCreate.java:221) main addproject.XxgcCreate - GetByLocal.debug 
