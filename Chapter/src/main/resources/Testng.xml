@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Suite">
+<suite name="我自己的自动化测试套件">
     <parameter name="username1" value="1323134804@qq.com"></parameter>
-    <parameter name="password" value="libowen88"></parameter>
+    <parameter name="password" value="libowen8866"></parameter>
     <parameter name="url" value="https://www.imooc.com"></parameter>
     <parameter name="browser" value="chrome"></parameter>
-    <test name="Test">
+    <test name="这些是测试模块！">
         <classes>
             <class name="com.mushishi.imooc.runcase.LoginCase">
             <methods>
-                <include name="TestLoginSuccess"/>
+                <include name="TestLoginError"/>
             </methods>
         </class>
         </classes>
     </test>
+    <listeners>
+        <!--接口自动化测试报告-->
+        <!--<listener class-name="com.demo.ExtentTestNGIReporter" />-->
+        <!--ui自动化测试报告-->
+        <listener class-name= "org.uncommons.reportng.HTMLReporter"></listener>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"></listener>
+        <listener class-name="com.demo.ExtentTestNGIReporter"></listener>
+    </listeners>
 </suite>

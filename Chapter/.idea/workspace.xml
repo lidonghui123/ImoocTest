@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a35b2bd-ca1f-4260-ac64-f918bd4b21f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="5a35b2bd-ca1f-4260-ac64-f918bd4b21f3" name="Default Changelist" comment="&quot;libowen&quot;">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/ExtentTestNGIReporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/ExtentTestNGIReporterListener.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.test.TestNGListenerScreen_2019_11_06_15_00_15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.test.TestNGListenerScreen_2019_11_06_16_05_31.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.test.TestNGListenerScreen_2019_11_06_16_08_58.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.test.TestNGListenerScreen_2019_11_06_16_23_06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.test.TestNGListenerScreen_2019_11_06_16_24_56.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.test.TestNGListenerScreen_2019_11_06_16_24_58.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.test.TestNGListenerScreen_2019_11_06_16_55_35.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.test.TestNGListenerScreen_2019_11_06_16_55_36.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.test.TestNGListenerScreen_2019_11_06_17_19_21.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.test.TestNGListenerScreen_2019_11_06_17_19_24.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.test.TestNGListenerScreen_2019_11_06_17_53_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.test.TestNGListenerScreen_2019_11_06_15_00_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.test.TestNGListenerScreen_2019_11_07_12_08_22.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/LoginCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/LoginCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/file/TestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/file/TestCase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/Testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Chapter.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Testng.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -38,11 +28,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/LoginCase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="59" column="7" selection-end-line="85" selection-end-column="1" />
+            <state relative-caret-position="144">
+              <caret line="74" column="30" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/test/file/TestCase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -50,20 +49,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/BaseCase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="19" column="40" selection-end-line="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/page/BasePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="30" column="28" selection-end-line="63" selection-end-column="1" />
+            <state relative-caret-position="468">
+              <caret line="18" column="45" lean-forward="true" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,8 +77,52 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/Testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="16" selection-end-column="8" />
+            <state relative-caret-position="208">
+              <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/ExtentTestNGIReporter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="e#2168#2181#0" expanded="true" />
+                <element signature="e#3532#3822#0" expanded="true" />
+                <element signature="e#3821#3822#0" expanded="true" />
+                <element signature="e#3955#3967#0" expanded="true" />
+                <element signature="e#5749#5765#0" expanded="true" />
+                <element signature="e#7688#7689#0" expanded="true" />
+                <element signature="e#7723#7724#0" expanded="true" />
+                <element signature="e#7767#7768#0" expanded="true" />
+                <element signature="e#7807#7808#0" expanded="true" />
+                <element signature="e#7847#7848#0" expanded="true" />
+                <element signature="e#7887#7888#0" expanded="true" />
+                <element signature="e#7941#7942#0" expanded="true" />
+                <element signature="e#7991#7992#0" expanded="true" />
+                <element signature="e#8032#8033#0" expanded="true" />
+                <element signature="e#8073#8074#0" expanded="true" />
+                <element signature="e#8129#8130#0" expanded="true" />
+                <element signature="e#8181#8182#0" expanded="true" />
+                <element signature="e#8221#8222#0" expanded="true" />
+                <element signature="e#8261#8262#0" expanded="true" />
+                <element signature="e#8315#8316#0" expanded="true" />
+                <element signature="e#8365#8366#0" expanded="true" />
+                <element signature="e#8402#8403#0" expanded="true" />
+                <element signature="e#8439#8440#0" expanded="true" />
+                <element signature="e#8487#8488#0" expanded="true" />
+                <element signature="e#8531#8532#0" expanded="true" />
+                <element signature="e#8571#8572#0" expanded="true" />
+                <element signature="e#8605#8606#0" expanded="true" />
+                <element signature="e#8653#8654#0" expanded="true" />
+                <element signature="e#8691#8692#0" expanded="true" />
+                <element signature="e#8733#8734#0" expanded="true" />
+                <element signature="e#8775#8776#0" expanded="true" />
+                <element signature="e#8833#8834#0" expanded="true" />
+                <element signature="e#8887#8888#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -105,11 +136,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="45" column="21" lean-forward="true" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+            <state relative-caret-position="229">
+              <caret line="71" column="31" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -121,48 +152,6 @@
               <caret line="17" column="6" selection-end-line="49" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/handle/LoginHandle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="8" column="10" selection-end-line="49" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#466#467#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/page/LoginPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="11" column="9" selection-end-line="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#193#194#0" expanded="true" />
-                <element signature="e#222#223#0" expanded="true" />
-                <element signature="e#275#276#0" expanded="true" />
-                <element signature="e#317#318#0" expanded="true" />
-                <element signature="e#370#371#0" expanded="true" />
-                <element signature="e#415#416#0" expanded="true" />
-                <element signature="e#477#478#0" expanded="true" />
-                <element signature="e#520#521#0" expanded="true" />
-                <element signature="e#578#579#0" expanded="true" />
-                <element signature="e#626#627#0" expanded="true" />
-                <element signature="e#684#685#0" expanded="true" />
-                <element signature="e#728#729#0" expanded="true" />
-                <element signature="e#788#789#0" expanded="true" />
-                <element signature="e#833#834#0" expanded="true" />
-                <element signature="e#893#894#0" expanded="true" />
-                <element signature="e#943#944#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -181,6 +170,10 @@
     <findStrings>
       <find>开始第</find>
       <find>js-signin-btn</find>
+      <find>test-</find>
+      <find>Fail</find>
+      <find>Status</find>
+      <find>Tests</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -192,7 +185,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/test/file/ProUtil.java" />
         <option value="$PROJECT_DIR$/user.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/test/file/NewTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/test/file/TestCase.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/test/Imooc.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/page/ProUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/test/TestNGListenerScreen.java" />
@@ -204,8 +196,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/BaseCase.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/handle/LoginHandle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/LoginCase.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/Testng.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demo/ExtentTestNGIReporterListenerOld.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/Testng.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demo/ExtentTestNGIReporterListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demo/ExtentTestNGIReporter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/test/file/TestCase.java" />
       </list>
     </option>
   </component>
@@ -217,10 +213,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="309" />
-    <option name="y" value="125" />
+    <option name="x" value="198" />
+    <option name="y" value="107" />
     <option name="width" value="1568" />
-    <option name="height" value="886" />
+    <option name="height" value="933" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -272,6 +268,32 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="imooc" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Chapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -283,14 +305,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/guice-3.0.jar!/" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -438,39 +460,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_libw-c_IdeaProjects_Chapter_src_main_resources_Testng_xml - 2019.11.06 at 17h 53m 15s.xml">
+    <history-entry file="C__Users_libw-c_IdeaProjects_Chapter_src_main_resources_Testng_xml - 2019.11.08 at 10h 03m 41s.xml">
       <configuration name="C:/Users/libw-c/IdeaProjects/Chapter/src/main/resources/Testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_libw-c_IdeaProjects_Chapter_src_main_resources_Testng_xml - 2019.11.06 at 19h 26m 02s.xml">
+    <history-entry file="C__Users_libw-c_IdeaProjects_Chapter_src_main_resources_Testng_xml - 2019.11.08 at 10h 03m 42s.xml">
       <configuration name="C:/Users/libw-c/IdeaProjects/Chapter/src/main/resources/Testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginCase_(1) - 2019.11.06 at 19h 27m 09s.xml">
-      <configuration name="LoginCase (1)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="LoginCase_(2) - 2019.11.06 at 19h 28m 00s.xml">
-      <configuration name="LoginCase (2)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="LoginCase_(3) - 2019.11.06 at 19h 31m 59s.xml">
-      <configuration name="LoginCase (3)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_libw-c_IdeaProjects_Chapter_src_main_resources_Testng_xml - 2019.11.06 at 19h 32m 03s.xml">
+    <history-entry file="C__Users_libw-c_IdeaProjects_Chapter_src_main_resources_Testng_xml - 2019.11.08 at 10h 04m 54s.xml">
       <configuration name="C:/Users/libw-c/IdeaProjects/Chapter/src/main/resources/Testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_libw-c_IdeaProjects_Chapter_src_main_resources_Testng_xml - 2019.11.06 at 20h 05m 38s.xml">
+    <history-entry file="C__Users_libw-c_IdeaProjects_Chapter_src_main_resources_Testng_xml - 2019.11.08 at 11h 21m 50s.xml">
       <configuration name="C:/Users/libw-c/IdeaProjects/Chapter/src/main/resources/Testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_libw-c_IdeaProjects_Chapter_src_main_resources_Testng_xml - 2019.11.07 at 11h 42m 47s.xml">
+    <history-entry file="C__Users_libw-c_IdeaProjects_Chapter_src_main_resources_Testng_xml - 2019.11.08 at 11h 24m 52s.xml">
       <configuration name="C:/Users/libw-c/IdeaProjects/Chapter/src/main/resources/Testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_libw-c_IdeaProjects_Chapter_src_main_resources_Testng_xml - 2019.11.07 at 11h 45m 45s.xml">
+    <history-entry file="C__Users_libw-c_IdeaProjects_Chapter_src_main_resources_Testng_xml - 2019.11.08 at 11h 26m 21s.xml">
       <configuration name="C:/Users/libw-c/IdeaProjects/Chapter/src/main/resources/Testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_libw-c_IdeaProjects_Chapter_src_main_resources_Testng_xml - 2019.11.07 at 12h 08m 23s.xml">
+    <history-entry file="C__Users_libw-c_IdeaProjects_Chapter_src_main_resources_Testng_xml - 2019.11.08 at 11h 27m 52s.xml">
+      <configuration name="C:/Users/libw-c/IdeaProjects/Chapter/src/main/resources/Testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_libw-c_IdeaProjects_Chapter_src_main_resources_Testng_xml - 2019.11.08 at 11h 29m 18s.xml">
+      <configuration name="C:/Users/libw-c/IdeaProjects/Chapter/src/main/resources/Testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_libw-c_IdeaProjects_Chapter_src_main_resources_Testng_xml - 2019.11.08 at 11h 31m 15s.xml">
+      <configuration name="C:/Users/libw-c/IdeaProjects/Chapter/src/main/resources/Testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_libw-c_IdeaProjects_Chapter_src_main_resources_Testng_xml - 2019.11.08 at 11h 36m 27s.xml">
       <configuration name="C:/Users/libw-c/IdeaProjects/Chapter/src/main/resources/Testng.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60701000" />
+    <option name="totallyTimeSpent" value="74009000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -482,10 +504,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="309" y="125" width="1568" height="886" extended-state="0" />
+    <frame x="198" y="107" width="1568" height="933" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19562334" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32161805" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -493,16 +515,16 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" weight="0.4078675" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32916147" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" visible="true" weight="0.24906133" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39924905" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32909092" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.25672877" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.4787234" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.4787234" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50159913" side_tool="true" weight="0.44745395" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49933687" weight="0.32194617" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -515,9 +537,50 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32161805" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32916147" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" visible="true" weight="0.46558198" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39924905" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32909092" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.25672877" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.4787234" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50159913" side_tool="true" weight="0.44745395" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49933687" weight="0.32194617" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/Test.java" />
@@ -539,17 +602,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/file/TestCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#118#119#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.m2/repository/org/testng/testng/6.13/testng-6.13-sources.jar!/org/testng/TestListenerAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -557,9 +609,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com.test.TestNGListenerScreen_2019_11_06_15_00_15.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/com.test.TestNGListenerScreen_2019_11_06_15_00_15.png" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/test/file/ProUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -575,15 +625,9 @@
     <entry file="file://$PROJECT_DIR$/l.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/com.test.TestNGListenerScreen_2019_11_06_16_05_31.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com.test.TestNGListenerScreen_2019_11_06_16_24_56.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com.test.TestNGListenerScreen_2019_11_06_16_24_58.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/com.test.TestNGListenerScreen_2019_11_06_16_05_31.png" />
+    <entry file="file://$PROJECT_DIR$/com.test.TestNGListenerScreen_2019_11_06_16_24_56.png" />
+    <entry file="file://$PROJECT_DIR$/com.test.TestNGListenerScreen_2019_11_06_16_24_58.png" />
     <entry file="file://$PROJECT_DIR$/log/error.log">
       <provider selected="true" editor-type-id="LogFileEditorProvider" />
     </entry>
@@ -594,9 +638,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com.test.TestNGListenerScreen_2019_11_06_17_19_24.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/com.test.TestNGListenerScreen_2019_11_06_17_19_24.png" />
     <entry file="file://$PROJECT_DIR$/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
@@ -679,26 +721,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/BaseCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="19" column="40" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/LoginCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="59" column="7" selection-end-line="85" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/test/TestNGListenerScreen.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -709,13 +731,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="16" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/element.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
@@ -723,10 +738,105 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/ExtentTestNGIReporterListenerOld.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-output/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="45" column="21" lean-forward="true" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+        <state relative-caret-position="229">
+          <caret line="71" column="31" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019年-11月-08日-10时04分39秒report.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/ExtentTestNGIReporterListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-156">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#6107#6120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/ExtentTestNGIReporter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#2168#2181#0" expanded="true" />
+            <element signature="e#3532#3822#0" expanded="true" />
+            <element signature="e#3821#3822#0" expanded="true" />
+            <element signature="e#3955#3967#0" expanded="true" />
+            <element signature="e#5749#5765#0" expanded="true" />
+            <element signature="e#7688#7689#0" expanded="true" />
+            <element signature="e#7723#7724#0" expanded="true" />
+            <element signature="e#7767#7768#0" expanded="true" />
+            <element signature="e#7807#7808#0" expanded="true" />
+            <element signature="e#7847#7848#0" expanded="true" />
+            <element signature="e#7887#7888#0" expanded="true" />
+            <element signature="e#7941#7942#0" expanded="true" />
+            <element signature="e#7991#7992#0" expanded="true" />
+            <element signature="e#8032#8033#0" expanded="true" />
+            <element signature="e#8073#8074#0" expanded="true" />
+            <element signature="e#8129#8130#0" expanded="true" />
+            <element signature="e#8181#8182#0" expanded="true" />
+            <element signature="e#8221#8222#0" expanded="true" />
+            <element signature="e#8261#8262#0" expanded="true" />
+            <element signature="e#8315#8316#0" expanded="true" />
+            <element signature="e#8365#8366#0" expanded="true" />
+            <element signature="e#8402#8403#0" expanded="true" />
+            <element signature="e#8439#8440#0" expanded="true" />
+            <element signature="e#8487#8488#0" expanded="true" />
+            <element signature="e#8531#8532#0" expanded="true" />
+            <element signature="e#8571#8572#0" expanded="true" />
+            <element signature="e#8605#8606#0" expanded="true" />
+            <element signature="e#8653#8654#0" expanded="true" />
+            <element signature="e#8691#8692#0" expanded="true" />
+            <element signature="e#8733#8734#0" expanded="true" />
+            <element signature="e#8775#8776#0" expanded="true" />
+            <element signature="e#8833#8834#0" expanded="true" />
+            <element signature="e#8887#8888#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/BaseCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="18" column="45" lean-forward="true" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/LoginCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="74" column="30" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/file/TestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -770,6 +880,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -793,7 +904,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: com.beust:jcommander:1.66</last-edited>
+          <last-edited>Maven: com.aventstack:extentreports:3.0.6</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
