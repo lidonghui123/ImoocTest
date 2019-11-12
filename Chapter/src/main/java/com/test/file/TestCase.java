@@ -10,6 +10,7 @@ import org.testng.annotations.Test;
 
 public class TestCase {
     @Test
+<<<<<<< HEAD
     public  void test() {
 //        System.setProperty("webdriver.firefox.bin", "C:\\Users\\libw-c\\AppData\\Local\\Mozilla Firefox\\firefox.exe");
 //        System.setProperty("webdriver.gecko.driver", "E:\\selenium\\geckodriver.exe");
@@ -22,5 +23,9 @@ public class TestCase {
         System.setProperty("webdriver.ie.driver","E:\\selenium\\IEDriverServer.exe");
         WebDriver driver = new InternetExplorerDriver();
         driver.get("http://www.baidu.com");
+=======
+    public  void test(){
+        System.out.println("wefw");
+>>>>>>> origin/master
     }
 }

@@ -1,34 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a35b2bd-ca1f-4260-ac64-f918bd4b21f3" name="Default Changelist" comment="&quot;libowen-11.8&quot;">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/element1.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/page/CoursePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xxgc/handle/LoginHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xxgc/page/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xxgc/page/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xxgc/page/ProUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xxgc/runcase/BaseCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xxgc/runcase/LoginCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/html/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/html/overview.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/html/reportng.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/html/reportng.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/html/sorttable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/html/suite1_test1_results.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/html/suites.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/xml/com.mushishi.imooc.runcase.LoginCase_results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019年-11月-08日-11时36分09秒report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.test.TestNGListenerScreen_2019_11_08_11_36_26.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/BaseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/BaseCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/TestNGListenerScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/TestNGListenerScreen.java" afterDir="false" />
+    <list default="true" id="5a35b2bd-ca1f-4260-ac64-f918bd4b21f3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/ImoocTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/test/file/TestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/file/TestCase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/Testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Testng.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -64,11 +45,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/Testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+            <state relative-caret-position="234">
+              <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -113,10 +94,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/page/CoursePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
+            <state relative-caret-position="76">
               <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -147,8 +128,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/test/file/TestCase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
-              <caret line="21" selection-start-line="21" selection-end-line="23" selection-end-column="43" />
+            <state relative-caret-position="236">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -185,6 +166,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
@@ -210,10 +192,10 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/BaseCase.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/test/TestNGListenerScreen.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/Testng.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/test/file/TestCase.java" />
         <option value="$PROJECT_DIR$/element1.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/page/CoursePage.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/Testng.xml" />
       </list>
     </option>
   </component>
@@ -225,8 +207,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="445" />
-    <option name="y" value="175" />
+    <option name="x" value="312" />
+    <option name="y" value="20" />
     <option name="width" value="1469" />
     <option name="height" value="897" />
   </component>
@@ -470,7 +452,7 @@
       <workItem from="1572961804460" duration="20320000" />
       <workItem from="1573032866352" duration="5088000" />
       <workItem from="1573098115932" duration="5751000" />
-      <workItem from="1573269109459" duration="14328000" />
+      <workItem from="1573269109459" duration="14464000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;libowen-11.8&quot;">
       <created>1573200546592</created>
@@ -486,7 +468,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573200862761</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&quot;libowen-11.12&quot;">
+      <created>1573523303240</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573523303240</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -522,7 +511,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93113000" />
+    <option name="totallyTimeSpent" value="93249000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -534,7 +523,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="445" y="175" width="1469" height="897" extended-state="0" />
+    <frame x="312" y="20" width="1469" height="897" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32576296" />
@@ -546,13 +535,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32815734" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" visible="true" weight="0.25294888" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" weight="0.25294888" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39924905" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32909092" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.25657073" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.2555701" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.4787234" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50159913" side_tool="true" weight="0.44745395" />
@@ -615,7 +604,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;libowen-11.8&quot;" />
     <MESSAGE value="&quot;libowen-11.8-1&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;libowen-11.8-1&quot;" />
+    <MESSAGE value="&quot;libowen-11.12&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;libowen-11.12&quot;" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/Test.java" />
@@ -811,8 +801,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/test/file/TestCase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="21" selection-start-line="21" selection-end-line="23" selection-end-column="43" />
+        <state relative-caret-position="236">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -826,13 +816,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -895,7 +878,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/page/CoursePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
+        <state relative-caret-position="76">
           <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -910,6 +893,13 @@
             <element signature="e#701#702#0" expanded="true" />
             <element signature="e#745#746#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
