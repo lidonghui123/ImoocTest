@@ -15,7 +15,7 @@ import java.util.Date;
 public class TestNGListenerScreen extends TestListenerAdapter {
     @Override
     public void onTestFailure(ITestResult tr) {
-//System.err.println("第一case失败");
+        //System.err.println("第一case失败");
         //实例化testng
         LoginCase s = (LoginCase)tr.getInstance();
         //转换成webdriver

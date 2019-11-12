@@ -1,9 +1,7 @@
-package com.mushishi.imooc.runcase;
+package com.xxgc.runcase;
 
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.chrome.ChromeOptions;
 
 public class BaseCase {
     //设置浏览器
@@ -17,10 +15,8 @@ public class BaseCase {
             System.setProperty("webdriver.chrome.driver", "E:\\selenium\\chromedriver.exe");
             driver = new ChromeDriver();
         }else {
-            System.setProperty("webdriver.chrome.driver", "E:\\selenium\\360\\chromedriver.exe");
-            ChromeOptions options = new ChromeOptions();
-            options.setBinary("C:\\Users\\libw-c\\AppData\\Roaming\\360se6\\Application\\360se.exe");
-             driver = new ChromeDriver(options);
+            System.setProperty("webdriver.chrome.driver", "E:\\selenium\\chromedriver.exe");
+            driver = new ChromeDriver();
         }
         return driver;
     }

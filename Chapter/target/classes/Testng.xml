@@ -4,12 +4,13 @@
     <parameter name="username1" value="1323134804@qq.com"></parameter>
     <parameter name="password" value="libowen8866"></parameter>
     <parameter name="url" value="https://www.imooc.com"></parameter>
-    <parameter name="browser" value="chrome"></parameter>
+    <!--<parameter name="browser" value="chrome"></parameter>-->
+    <parameter name="browser" value="360"></parameter>
     <test name="这些是测试模块！">
         <classes>
             <class name="com.mushishi.imooc.runcase.LoginCase">
             <methods>
-                <include name="TestLoginError"/>
+                <include name="TestLoginSuccess"/>
             </methods>
         </class>
         </classes>
