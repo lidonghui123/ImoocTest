@@ -2,7 +2,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="我自己的自动化测试套件">
     <parameter name="username1" value="1323134804@qq.com"></parameter>
-    <parameter name="password" value="libowen8866"></parameter>
+    <parameter name="password" value="libowen"></parameter>
     <parameter name="url" value="https://www.imooc.com"></parameter>
     <parameter name="browser" value="chrome"></parameter>
     <test name="这些是测试模块！">
