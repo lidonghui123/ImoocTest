@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 /**
- * @author 李博文
+ * @author libw-c
  */
 public class CoursePage extends BasePage{
 
@@ -35,4 +35,10 @@ public class CoursePage extends BasePage{
     public WebElement getShopCartNumElement(){
         return GetElement("shopcartNum");
     }
+    /**
+     * 获取课程详情页面左上角课程名element
+     */
+     public WebElement getCouserNameElement(){
+         return  nodeElement("courseInfo","courseInfoText");
+     }
 }
