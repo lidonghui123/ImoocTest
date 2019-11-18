@@ -8,12 +8,24 @@
     <parameter name="browser" value="360"></parameter>
     <test name="这些是测试模块！">
         <classes>
-            <class name="com.mushishi.imooc.runcase.LoginCase">
+            <!--登录的case-->
+            <!--<class name="com.mushishi.imooc.runcase.LoginCase">
             <methods>
                 <include name="TestLoginSuccess"/>
             </methods>
-        </class>
+        </class>-->
+            <!--下订单用例-->
+            <class name="com.mushishi.imooc.runcase.Login">
+                <methods>
+                    <include name="checkBox"/>
+                    <include name="TestAddCart"/>
+                    <include name="TestSureOrder"/>
+                    <include name="TestGoPay"/>
+                </methods>
+            </class>
+            
         </classes>
+
     </test>
     <listeners>
         <!--接口自动化测试报告-->

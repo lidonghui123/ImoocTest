@@ -4,6 +4,9 @@ import com.mushishi.imooc.page.CoursePage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
+/**
+ * 课程页面操作类
+ */
 public class CoursePageHandle {
     public WebDriver driver;
     //初始化coursePage对象
@@ -48,5 +51,11 @@ public class CoursePageHandle {
     public String getCourseName(){
         WebElement element = coursePage.getCouserNameElement();
         return  coursePage.gettext(element);
+    }
+    /**
+     * 点击已购买的课程弹窗
+     */
+    public void clickReadyBuy(){
+        coursePage.click(coursePage.getReadyBuy());
     }
 }

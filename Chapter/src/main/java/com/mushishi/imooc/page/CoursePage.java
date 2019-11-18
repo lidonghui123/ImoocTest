@@ -1,5 +1,6 @@
 package com.mushishi.imooc.page;
 
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
@@ -38,7 +39,13 @@ public class CoursePage extends BasePage{
     /**
      * 获取课程详情页面左上角课程名element
      */
-     public WebElement getCouserNameElement(){
-         return  nodeElement("courseInfo","courseInfoText");
-     }
+    public WebElement getCouserNameElement(){
+        return  nodeElement("courseInfo","courseInfoText");
+    }
+    /**
+     * 通过子父节定位已购买弹窗确定按钮
+     */
+    public WebElement getReadyBuy(){
+        return nodeElement("readybuySure","readybuySureNum");
+    }
 }

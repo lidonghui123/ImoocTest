@@ -1,5 +1,6 @@
 package com.mushishi.imooc.page;
 
+import com.mushishi.imooc.util.ProUtil;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -22,6 +23,7 @@ public class BasePage {
      * Element方法封装
      */
     public WebElement GetElement(String key){
+        logger.debug("封装方法"+key);
         boolean flag=true;
         int i =0;
         WebElement Element=null;
@@ -45,6 +47,7 @@ public class BasePage {
      * 需要传入父节点和子节点by
      */
     public WebElement nodeElement(String key,String nodekey){
+        logger.debug("层级定位"+nodekey);
         WebElement element = driver.findElement(this.GetByLocal(key));
         return element.findElement(this.GetByLocal(nodekey));
     }
@@ -61,6 +64,7 @@ public class BasePage {
      * 封装一个click点击
      */
     public void click(WebElement element){
+        logger.debug(element+"按钮点击");
         //判断传入的是否存在
         if(element != null){
             element.click();
@@ -97,7 +101,9 @@ public class BasePage {
             return By.name(LocatorValue);
         } else if (LocatorBy.equals("className")) {
             return By.className(LocatorValue);
-        } else {
+        } else if(LocatorBy.equals("linkText")){
+            return By.linkText(LocatorValue);
+        }else{
             return By.xpath(LocatorValue);
         }
     }

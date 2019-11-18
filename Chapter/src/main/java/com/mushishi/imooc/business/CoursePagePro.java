@@ -9,7 +9,7 @@ public class CoursePagePro {
     public CoursePageHandle coursePageHandle;
     //构造方法
     public CoursePagePro(WebDriver driver){
-            //this.driver = driver;
+            this.driver = driver;
         coursePageHandle = new CoursePageHandle(driver);
     }
     /**
@@ -33,6 +33,14 @@ public class CoursePagePro {
         //如果brforNum为0时，添加购物车
         coursePageHandle.clickaddCart();
         Thread.sleep(2000);
+        try {
+            this.switchToMode();
+            Thread.sleep(2000);
+            coursePageHandle.clickReadyBuy();
+        }catch (Exception e){
+            //e.printStackTrace();
+        }
+
         //再次获取存入变量
         afterCourseNum = coursePageHandle.getshopcartNum();
         System.out.println("afterCourseNum:"+afterCourseNum);
@@ -42,14 +50,33 @@ public class CoursePagePro {
             System.out.println("转换int类型报错！");
             e.printStackTrace();
         }
-
-        //
-
         //做判断,如果afternum=befornum+1就证明添加购物车成功
         if(afterNum == beforNum+1){
             System.out.println("添加购物车成功！");
+        }else if(afterNum > 0){
             coursePageHandle.clickshopcart();
         }
+
+    }
+    /**
+     * 点击立即购买
+     */
+    public void buyNow(){
+        coursePageHandle.clickBuyNow();
+    }
+
+    /**
+     * 切换laert窗口
+     */
+    public void switchAlert(){
+        driver.switchTo().alert();
+    }
+
+    /**
+     * 模态框切换
+     */
+    public void switchToMode(){
+        driver.switchTo().activeElement();
     }
 
 
