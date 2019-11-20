@@ -1,5 +1,6 @@
-package com.test;
+package com.mushishi.imooc.util;
 
+import com.mushishi.imooc.runcase.Login;
 import com.mushishi.imooc.runcase.LoginCase;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.WebDriver;
@@ -13,13 +14,25 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 public class TestNGListenerScreen extends TestListenerAdapter {
+    public WebDriver driver;
     @Override
     public void onTestFailure(ITestResult tr) {
         //System.err.println("第一case失败");
+       /* if(tr.equals(Login.class)){
+            //实例化testng
+            Login s = (Login)tr.getInstance();
+            //转换成webdriver
+             this.driver= s.driver;
+        }else if(tr.equals(LoginCase.class)){
+            //实例化testng
+            LoginCase s = (LoginCase)tr.getInstance();
+            //转换成webdriver
+            this.driver= s.driver;
+        }*/
         //实例化testng
         LoginCase s = (LoginCase)tr.getInstance();
         //转换成webdriver
-        WebDriver driver= s.driver;
+        this.driver= s.driver;
         //调用截图方法
         this.TakeSecreenShot(driver);
         //调用父类方法
@@ -38,7 +51,7 @@ public class TestNGListenerScreen extends TestListenerAdapter {
         // 获取当前路径
         String curPath = System.getProperty("user.dir");
         // 截屏、图片存储
-        File scrFile = ((RemoteWebDriver) driver).getScreenshotAs(OutputType.FILE);
+        File scrFile = ((RemoteWebDriver)driver).getScreenshotAs(OutputType.FILE);
         // 图片存放的位置
         try {
             com.google.common.io.Files.copy(scrFile, new File(curPath + "\\" + pngPath));

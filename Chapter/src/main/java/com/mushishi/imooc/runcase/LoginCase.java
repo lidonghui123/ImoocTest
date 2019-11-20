@@ -1,12 +1,11 @@
 package com.mushishi.imooc.runcase;
 
 import com.mushishi.imooc.handle.LoginHandle;
-import com.test.TestNGListenerScreen;
+import com.mushishi.imooc.util.TestNGListenerScreen;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.By;
 
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.*;
 import org.apache.log4j.Logger;
@@ -19,8 +18,10 @@ public class LoginCase extends BaseCase{
     public WebDriver driver;
     LoginHandle loginHandle;
     @Parameters({"url","browser"})
-    @BeforeClass
+    //@BeforeClass(description = "登录初始化浏览器")
+    @BeforeGroups (groups = "error")
     public void beforeClass(String url,String browser) {
+        System.out.println("————————————————————————》");
         //应该引入log4j的目录以及文件
         PropertyConfigurator.configure("log4j.properties");
         logger.debug("初始化浏览器");
@@ -28,17 +29,11 @@ public class LoginCase extends BaseCase{
         driver = GetDriver(browser);
         logger.debug("打开浏览器");
         driver.get(url);
-        //Dimension dimension = new Dimension(1355,884);
-        //driver.manage().window().setSize(dimension);
-        //浏览器窗口最大化
-        driver.manage().window().maximize();
-        //driver.navigate().refresh();
         try {
             Thread.sleep(4000);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        driver.findElement(By.className("redrain-closeBtn")).click();
         //new 一个loginHandle的对象
         loginHandle = new LoginHandle(driver);
         //点击登录按钮
@@ -52,15 +47,16 @@ public class LoginCase extends BaseCase{
     }
     @AfterClass
     public void afterClass(){
-        //driver.close();
+        driver.close();
     }
 
     /**
      * 测试登录成功用例
      */
     @Parameters({"username1","password"})
-    @Test
+    @Test(description = "登录成功",groups = "sucess")
     public void TestLoginSuccess(String username1,String password) throws InterruptedException {
+        System.out.println("————————————————————————》");
         logger.debug("开始第一个执行case");
         loginHandle.SendEmail(username1);
         loginHandle.SendPassword(password);
@@ -71,11 +67,11 @@ public class LoginCase extends BaseCase{
         //登录后的用户名判断
         Assert.assertEquals(username,"dong辉");
     }
-    @Test
+    @Test(description = "登录失败",groups ="error")
     public void TestLoginError() throws InterruptedException {
         logger.debug("开始第二个执行case");
         loginHandle.SendEmail("1323134804@qq.com");
-        loginHandle.SendPassword("libowen88");
+        loginHandle.SendPassword("libowen8866");
         loginHandle.ClickLogin();
         Thread.sleep(2000);
         //引入登录后名字

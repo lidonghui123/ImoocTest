@@ -5,31 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a35b2bd-ca1f-4260-ac64-f918bd4b21f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/business/OrderPayPagepro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/business/SureOrderPagePro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/handle/OrderPayPageHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/handle/SureOrderHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/page/OrderPayPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/page/SureOrderPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/util/SendEmail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/case.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/TestDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/TestReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/Test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019年-11月-08日-17时36分23秒report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019年-11月-08日-17时43分04秒report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019年-11月-08日-17时43分36秒report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019年-11月-09日-13时59分22秒report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019年-11月-11日-10时06分35秒report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019年-11月-11日-10时29分09秒report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019年-11月-11日-10时33分53秒report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019年-11月-11日-10时37分44秒report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019年-11月-11日-11时32分04秒report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.test.TestNGListenerScreen_2019_11_08_17_43_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.test.TestNGListenerScreen_2019_11_08_17_43_51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.test.TestNGListenerScreen_2019_11_09_13_59_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.test.TestNGListenerScreen_2019_11_11_10_06_53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.test.TestNGListenerScreen_2019_11_11_10_29_45.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/element1.properties" beforeDir="false" afterPath="$PROJECT_DIR$/element1.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/log4j.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/base/DriverBase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/business/CoursePagePro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/business/CoursePagePro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/handle/CoursePageHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/handle/CoursePageHandle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/page/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/page/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/page/CoursePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/page/CoursePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/page/ProUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/util/ProUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/BaseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/BaseCase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/LoginCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/LoginCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/TestNGListenerScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/util/TestNGListenerScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xxgc/runcase/LoginCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xxgc/runcase/LoginCase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/Testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/case.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/case.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Testng.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/html/overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/overview.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/html/suite1_test1_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite1_test1_results.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/html/suites.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suites.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/com.mushishi.imooc.runcase.LoginCase_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.mushishi.imooc.runcase.LoginCase_results.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -62,22 +69,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/util/TestNGListenerScreen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2002">
-              <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
+            <state relative-caret-position="173">
+              <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/Login.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2444">
-              <caret line="104" column="51" selection-start-line="104" selection-start-column="51" selection-end-line="104" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="273">
+              <caret line="85" column="36" lean-forward="true" selection-start-line="78" selection-end-line="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/Testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-156">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="8" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -85,17 +101,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/case.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <state relative-caret-position="52">
+              <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/LoginCase.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/BaseCase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+            <state relative-caret-position="442">
+              <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,50 +120,45 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/test/TestNGListenerScreen.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/LoginCase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/ExtentTestNGIReporterListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/ExtentTestNGIReporter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="78">
+              <caret line="48" column="29" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1415#1416#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/Testng.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/test/Test1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+            <state relative-caret-position="234">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/business/OrderPayPagepro.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/handle/LoginHandle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+            <state relative-caret-position="147">
+              <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/page/BasePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="118" column="16" selection-start-line="118" selection-start-column="16" selection-end-line="118" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#921#922#0" expanded="true" />
-                <element signature="e#970#971#0" expanded="true" />
+                <element signature="e#1978#1979#0" expanded="true" />
+                <element signature="e#2018#2019#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -192,13 +203,11 @@
         <option value="$PROJECT_DIR$/log/log.log" />
         <option value="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/page/LoginPage.java" />
         <option value="$PROJECT_DIR$/element.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/LoginCase.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/demo/ExtentTestNGIReporterListenerOld.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/demo/ExtentTestNGIReporterListener.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/demo/ExtentTestNGIReporter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/imooc/runcase/BaseCase.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xxgc/runcase/BaseCase.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/BaseCase.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/test/TestNGListenerScreen.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/test/file/TestCase.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/handle/LoginHandle.java" />
@@ -213,13 +222,20 @@
         <option value="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/page/OrderPayPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/handle/OrderPayPageHandle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/page/BasePage.java" />
-        <option value="$PROJECT_DIR$/element1.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/business/OrderPayPagepro.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/Testng.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/util/SendEmail.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demo/TestReporter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demo/TestReport.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demo/TestDemo1.java" />
+        <option value="$PROJECT_DIR$/element1.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/util/TestNGListenerScreen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/BaseCase.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/Login.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/Testng.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/case.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/LoginCase.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/test/Test1.java" />
       </list>
     </option>
   </component>
@@ -241,11 +257,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-35" />
-    <option name="y" value="167" />
-    <option name="width" value="1766" />
-    <option name="height" value="969" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="38" />
+    <option name="y" value="110" />
+    <option name="width" value="1705" />
+    <option name="height" value="912" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -280,12 +296,35 @@
               <item name="Chapter" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Chapter" type="b2602c69:ProjectViewProjectNode" />
               <item name="Chapter" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Chapter" type="b2602c69:ProjectViewProjectNode" />
@@ -317,6 +356,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.demo" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\libw-c\test\ImoocTest\Chapter\src\main\java\com" />
     </key>
@@ -333,13 +375,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/libw-c/test/ImoocTest/Chapter/src/main/resources/Testng.xml">
+  <component name="RunManager" selected="Application.Test1">
+    <configuration name="BaseCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mushishi.imooc.runcase.BaseCase" />
+      <module name="Chapter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mushishi.imooc.runcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SendEmail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mushishi.imooc.util.SendEmail" />
       <module name="Chapter" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.mushishi.imooc.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.Test1" />
+      <module name="Chapter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -357,54 +425,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Login.TestAddCart" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/libw-c/test/ImoocTest/Chapter/src/main/resources/case.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Chapter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mushishi.imooc.runcase.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.mushishi.imooc.runcase" />
-      <option name="MAIN_CLASS_NAME" value="com.mushishi.imooc.runcase.Login" />
-      <option name="METHOD_NAME" value="TestAddCart" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Login.TestGoPay" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mushishi.imooc.runcase.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.mushishi.imooc.runcase" />
-      <option name="MAIN_CLASS_NAME" value="com.mushishi.imooc.runcase.Login" />
-      <option name="METHOD_NAME" value="TestGoPay" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Login.TestSureOrder" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mushishi.imooc.runcase.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.mushishi.imooc.runcase" />
-      <option name="MAIN_CLASS_NAME" value="com.mushishi.imooc.runcase.Login" />
-      <option name="METHOD_NAME" value="TestSureOrder" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/case.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -436,11 +460,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="TestNG.C:/Users/libw-c/test/ImoocTest/Chapter/src/main/resources/case.xml" />
         <item itemvalue="TestNG.C:/Users/libw-c/test/ImoocTest/Chapter/src/main/resources/Testng.xml" />
+        <item itemvalue="Application.BaseCase" />
         <item itemvalue="Application.SendEmail" />
-        <item itemvalue="TestNG.Login.TestGoPay" />
-        <item itemvalue="TestNG.Login.TestSureOrder" />
-        <item itemvalue="TestNG.Login.TestAddCart" />
       </list>
     </recent_temporary>
   </component>
@@ -465,7 +489,7 @@
       <workItem from="1573990236452" duration="4000" />
       <workItem from="1573990264949" duration="13360000" />
       <workItem from="1574051798887" duration="316000" />
-      <workItem from="1574052133568" duration="2649000" />
+      <workItem from="1574052133568" duration="30456000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;libowen-11.8&quot;">
       <created>1573200546592</created>
@@ -502,43 +526,50 @@
       <option name="project" value="LOCAL" />
       <updated>1573807777236</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="&quot;libowen 2019-11-18&quot;">
+      <created>1574066241183</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574066241183</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Login_TestSureOrder - 2019.11.17 at 21h 42m 05s.xml">
-      <configuration name="Login.TestSureOrder" configurationId="TestNG" />
+    <history-entry file="C__Users_libw-c_test_ImoocTest_Chapter_src_main_resources_case_xml - 2019.11.20 at 08h 17m 09s.xml">
+      <configuration name="C:/Users/libw-c/test/ImoocTest/Chapter/src/main/resources/case.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Login_TestSureOrder - 2019.11.17 at 21h 43m 19s.xml">
-      <configuration name="Login.TestSureOrder" configurationId="TestNG" />
+    <history-entry file="C__Users_libw-c_test_ImoocTest_Chapter_src_main_resources_case_xml - 2019.11.20 at 08h 18m 23s.xml">
+      <configuration name="C:/Users/libw-c/test/ImoocTest/Chapter/src/main/resources/case.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Login_TestSureOrder - 2019.11.17 at 21h 45m 48s.xml">
-      <configuration name="Login.TestSureOrder" configurationId="TestNG" />
+    <history-entry file="C__Users_libw-c_test_ImoocTest_Chapter_src_main_resources_case_xml - 2019.11.20 at 08h 34m 57s.xml">
+      <configuration name="C:/Users/libw-c/test/ImoocTest/Chapter/src/main/resources/case.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Login_TestSureOrder - 2019.11.17 at 21h 47m 01s.xml">
-      <configuration name="Login.TestSureOrder" configurationId="TestNG" />
+    <history-entry file="C__Users_libw-c_test_ImoocTest_Chapter_src_main_resources_case_xml - 2019.11.20 at 08h 37m 17s.xml">
+      <configuration name="C:/Users/libw-c/test/ImoocTest/Chapter/src/main/resources/case.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Login_TestGoPay - 2019.11.17 at 21h 49m 33s.xml">
-      <configuration name="Login.TestGoPay" configurationId="TestNG" />
+    <history-entry file="C__Users_libw-c_test_ImoocTest_Chapter_src_main_resources_case_xml - 2019.11.20 at 08h 45m 24s.xml">
+      <configuration name="C:/Users/libw-c/test/ImoocTest/Chapter/src/main/resources/case.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_libw-c_test_ImoocTest_Chapter_src_main_resources_Testng_xml - 2019.11.17 at 22h 07m 31s.xml">
-      <configuration name="C:/Users/libw-c/test/ImoocTest/Chapter/src/main/resources/Testng.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_libw-c_test_ImoocTest_Chapter_src_main_resources_case_xml - 2019.11.20 at 08h 52m 22s.xml">
+      <configuration name="C:/Users/libw-c/test/ImoocTest/Chapter/src/main/resources/case.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_libw-c_test_ImoocTest_Chapter_src_main_resources_Testng_xml - 2019.11.17 at 22h 08m 02s.xml">
-      <configuration name="C:/Users/libw-c/test/ImoocTest/Chapter/src/main/resources/Testng.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_libw-c_test_ImoocTest_Chapter_src_main_resources_case_xml - 2019.11.20 at 08h 53m 48s.xml">
+      <configuration name="C:/Users/libw-c/test/ImoocTest/Chapter/src/main/resources/case.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_libw-c_test_ImoocTest_Chapter_src_main_resources_Testng_xml - 2019.11.17 at 22h 09m 28s.xml">
-      <configuration name="C:/Users/libw-c/test/ImoocTest/Chapter/src/main/resources/Testng.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_libw-c_test_ImoocTest_Chapter_src_main_resources_case_xml - 2019.11.20 at 08h 54m 32s.xml">
+      <configuration name="C:/Users/libw-c/test/ImoocTest/Chapter/src/main/resources/case.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_libw-c_test_ImoocTest_Chapter_src_main_resources_Testng_xml - 2019.11.18 at 15h 51m 36s.xml">
-      <configuration name="C:/Users/libw-c/test/ImoocTest/Chapter/src/main/resources/Testng.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_libw-c_test_ImoocTest_Chapter_src_main_resources_case_xml - 2019.11.20 at 09h 34m 23s.xml">
+      <configuration name="C:/Users/libw-c/test/ImoocTest/Chapter/src/main/resources/case.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_libw-c_test_ImoocTest_Chapter_src_main_resources_Testng_xml - 2019.11.18 at 15h 55m 25s.xml">
-      <configuration name="C:/Users/libw-c/test/ImoocTest/Chapter/src/main/resources/Testng.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_libw-c_test_ImoocTest_Chapter_src_main_resources_case_xml - 2019.11.20 at 09h 35m 41s.xml">
+      <configuration name="C:/Users/libw-c/test/ImoocTest/Chapter/src/main/resources/case.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="180167000" />
+    <option name="totallyTimeSpent" value="207974000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -550,10 +581,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-35" y="167" width="1766" height="969" extended-state="0" />
-    <editor active="true" />
+    <frame x="38" y="110" width="1705" height="912" extended-state="1" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49902534" visible="true" weight="0.27901524" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49902534" visible="true" weight="0.3367781" />
       <window_info id="Structure" order="1" sideWeight="0.50097466" side_tool="true" weight="0.21859474" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -562,8 +592,8 @@
       <window_info id="Favorites" order="6" sideWeight="0.50097466" side_tool="true" weight="0.21859474" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32815734" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49751598" visible="true" weight="0.4071856" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5070093" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49751598" weight="0.36632392" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38946015" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3279503" />
@@ -572,19 +602,19 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4982257" weight="0.47826087" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.502484" side_tool="true" weight="0.51180124" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49933687" weight="0.31823745" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49933687" weight="0.3174807" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" weight="0.32931158" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3288754" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Maven" order="6" weight="0.32931158" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49902534" visible="true" weight="0.23704755" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49902534" visible="true" weight="0.3367781" />
       <window_info id="Structure" order="1" sideWeight="0.50097466" side_tool="true" weight="0.21859474" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -593,16 +623,16 @@
       <window_info id="Favorites" order="6" sideWeight="0.50097466" side_tool="true" weight="0.21859474" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32815734" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4982257" visible="true" weight="0.51752335" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.6032953" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49751598" visible="true" weight="0.48971722" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.50642675" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32909092" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3279503" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4989339" weight="0.3648855" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4989339" weight="0.36397517" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.4787234" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5017743" side_tool="true" weight="0.36501902" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4982257" weight="0.47826087" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.502484" side_tool="true" weight="0.51180124" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49933687" weight="0.31823745" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -634,210 +664,14 @@
     <MESSAGE value="&quot;libowen-11.12&quot;" />
     <MESSAGE value="&quot;libowen 2019-11-13&quot;" />
     <MESSAGE value="&quot;libowen 2019-11-15&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;libowen 2019-11-15&quot;" />
+    <MESSAGE value="&quot;libowen 2019-11-18&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;libowen 2019-11-18&quot;" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/base/DriverBase.java" />
-    <entry file="jar://$USER_HOME$/.m2/repository/org/testng/testng/6.14.2/testng-6.14.2.jar!/org/testng/internal/ObjectFactoryImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/log4j/log4j/1.2.12/log4j-1.2.12.jar!/org/apache/log4j/helpers/LogLog.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="77" selection-start-line="77" selection-end-line="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/log4j/log4j/1.2.12/log4j-1.2.12.jar!/org/apache/log4j/Priority.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
-          <folding>
-            <element signature="e#1929#1930#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/log4j/log4j/1.2.12/log4j-1.2.12.jar!/org/apache/log4j/spi/LoggingEvent.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="75" selection-start-line="75" selection-end-line="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/seleniumhq/selenium/selenium-api/3.11.0/selenium-api-3.11.0.jar!/org/openqa/selenium/By.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="157" selection-start-line="157" selection-end-line="157" />
-          <folding>
-            <element signature="e#4964#4965#0" expanded="true" />
-            <element signature="e#5014#5015#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/google/guava/guava/23.6-jre/guava-23.6-jre-sources.jar!/com/google/common/base/Preconditions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="1374" selection-start-line="1374" selection-end-line="1374" />
-          <folding>
-            <element signature="e#48322#48323#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/google/guava/guava/23.6-jre/guava-23.6-jre-sources.jar!/com/google/common/collect/Hashing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-          <folding>
-            <element signature="e#1721#1722#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/google/guava/guava/23.6-jre/guava-23.6-jre-sources.jar!/com/google/common/collect/AbstractMapEntry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/google/guava/guava/23.6-jre/guava-23.6-jre-sources.jar!/com/google/common/collect/ImmutableEntry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/google/guava/guava/23.6-jre/guava-23.6-jre-sources.jar!/com/google/common/collect/CollectPreconditions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/google/guava/guava/23.6-jre/guava-23.6-jre-sources.jar!/com/google/common/collect/ImmutableMapEntry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-          <folding>
-            <element signature="e#1835#1836#0" expanded="true" />
-            <element signature="e#1879#1880#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/google/guava/guava/23.6-jre/guava-23.6-jre-sources.jar!/com/google/common/collect/RegularImmutableMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/google/guava/guava/23.6-jre/guava-23.6-jre-sources.jar!/com/google/common/collect/ImmutableMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="131" selection-start-line="131" selection-end-line="131" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.11.0/selenium-remote-driver-3.11.0.jar!/org/openqa/selenium/remote/service/DriverCommandExecutor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.11.0/selenium-remote-driver-3.11.0.jar!/org/openqa/selenium/remote/RemoteWebDriver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="519" selection-start-line="519" selection-end-line="519" />
-          <folding>
-            <element signature="e#10868#10869#0" expanded="true" />
-            <element signature="e#10911#10912#0" expanded="true" />
-            <element signature="e#14382#14383#0" expanded="true" />
-            <element signature="e#14442#14443#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.11.0/selenium-remote-driver-3.11.0.jar!/org/openqa/selenium/remote/Command.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="e#746#747#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/log4j/log4j/1.2.12/log4j-1.2.12.jar!/org/apache/log4j/Category.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="96" selection-start-line="96" selection-end-line="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/log4j/log4j/1.2.12/log4j-1.2.12.jar!/org/apache/log4j/Hierarchy.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3718">
-          <caret line="170" selection-start-line="170" selection-end-line="170" />
-          <folding>
-            <element signature="e#5041#5042#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.11.0/selenium-remote-driver-3.11.0.jar!/org/openqa/selenium/remote/SessionId.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#355#356#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/com/sun/org/apache/xalan/internal/templates/Constants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="234" column="24" selection-start-line="234" selection-start-column="24" selection-end-line="234" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/BaseCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xxgc/page/BasePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1144">
-          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -946,18 +780,6 @@
     <entry file="file://$PROJECT_DIR$/2019年-11月-12日-22时44分17秒report.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/page/BasePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="75" column="7" lean-forward="true" selection-start-line="75" selection-start-column="7" selection-end-line="75" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1938#1939#0" expanded="true" />
-            <element signature="e#1978#1979#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/handle/OrderPayPageHandle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -973,13 +795,6 @@
             <element signature="e#997#998#0" expanded="true" />
             <element signature="e#1027#1028#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/element1.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -1011,13 +826,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/log/log.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="650">
-          <caret line="46" column="29" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/util/SendEmail.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
@@ -1026,73 +834,6 @@
             <element signature="imports" expanded="true" />
             <element signature="e#983#984#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2002">
-          <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/Login.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2444">
-          <caret line="104" column="51" selection-start-line="104" selection-start-column="51" selection-end-line="104" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/LoginCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/TestNGListenerScreen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/ExtentTestNGIReporterListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/ExtentTestNGIReporter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/business/OrderPayPagepro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#921#922#0" expanded="true" />
-            <element signature="e#970#971#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/case.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -1108,10 +849,260 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/ExtentTestNGIReporterListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019年-11月-18日-15时54分33秒report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#5;n#tr#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019年-11月-18日-17时33分03秒.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019年-11月-18日-17时36分01秒.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/TestReport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1352">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#7244#7245#0" expanded="true" />
+            <element signature="e#7284#7285#0" expanded="true" />
+            <element signature="e#7618#7619#0" expanded="true" />
+            <element signature="e#7658#7659#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/ExtentTestNGIReporter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-806">
+          <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/TestDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/testng/testng/6.14.2/testng-6.14.2.jar!/org/testng/annotations/Test.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/business/OrderPayPagepro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#921#922#0" expanded="true" />
+            <element signature="e#970#971#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.mushishi.imooc.util.TestNGListenerScreen_2019_11_19_10_50_08.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/error.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="52" lean-forward="true" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-78" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/log.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="-2106">
+          <caret line="9" column="51" lean-forward="true" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/element.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/element1.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.11.0/selenium-remote-driver-3.11.0.jar!/org/openqa/selenium/remote/RemoteWebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="252" column="17" selection-start-line="252" selection-start-column="17" selection-end-line="252" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/testng/testng/6.14.2/testng-6.14.2.jar!/org/testng/ITestResult.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-130">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.mushishi.imooc.util.TestNGListenerScreen_2019_11_19_21_42_43.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/page/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="36" column="35" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
+          <folding>
+            <element signature="e#893#894#0" expanded="true" />
+            <element signature="e#943#944#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.mushishi.imooc.util.TestNGListenerScreen_2019_11_19_22_08_23.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xxgc/page/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.mushishi.imooc.util.TestNGListenerScreen_2019_11_19_22_22_38.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/Testng.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+        <state relative-caret-position="-156">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="8" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1634#1635#0" expanded="true" />
+            <element signature="e#1664#1665#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/page/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="118" column="16" selection-start-line="118" selection-start-column="16" selection-end-line="118" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1978#1979#0" expanded="true" />
+            <element signature="e#2018#2019#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/handle/LoginHandle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/BaseCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/util/TestNGListenerScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/case.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/LoginCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="48" column="29" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1415#1416#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="85" column="36" lean-forward="true" selection-start-line="78" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/sql/ResultSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1639">
+          <caret line="175" column="12" selection-start-line="175" selection-start-column="12" selection-end-line="175" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>

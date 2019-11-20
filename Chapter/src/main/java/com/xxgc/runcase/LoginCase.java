@@ -1,7 +1,7 @@
 package com.xxgc.runcase;
 
 import com.xxgc.handle.LoginHandle;
-import com.test.TestNGListenerScreen;
+import com.mushishi.imooc.util.TestNGListenerScreen;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.By;
