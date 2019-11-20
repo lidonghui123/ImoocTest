@@ -71,7 +71,7 @@ public class LoginCase extends BaseCase{
     public void TestLoginError() throws InterruptedException {
         logger.debug("开始第二个执行case");
         loginHandle.SendEmail("1323134804@qq.com");
-        loginHandle.SendPassword("libowen8866");
+        loginHandle.SendPassword("libowen");
         loginHandle.ClickLogin();
         Thread.sleep(2000);
         //引入登录后名字

@@ -27,8 +27,9 @@ public class Test1 {
             //System.out.println("id\tname\tage\tsex");
 
             while (rs.next()) {
-                System.out.println(rs.getInt(1) + "\t" + rs.getString(2)
-                        + "\t" + rs.getInt(3) + "\t" + rs.getInt(4));
+                /* System.out.println(rs.getInt(1) + "\t" + rs.getString(2)
+                        + "\t" + rs.getInt(3) + "\t" + rs.getInt(4));*/
+                System.out.println(rs.getInt(2));
             }
 
         } catch (SQLException e) {
