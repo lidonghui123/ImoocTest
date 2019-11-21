@@ -5,7 +5,7 @@
     <parameter name="password" value="libowen88"></parameter>
     <parameter name="url" value="https://www.imooc.com"></parameter>
     <!--<parameter name="browser" value="chrome"></parameter>-->
-    <parameter name="browser1" value="dd"></parameter>
+    <parameter name="browser1" value="chrome"></parameter>
     <parameter name="browser" value="chrome"></parameter>
     <test name="登录测试！">
         <classes >
@@ -18,20 +18,21 @@
         </classes>
 
     </test>
-    <test name="添加购物车">
-        <classes>
-            <!--下订单用例-->
-            <class name="com.mushishi.imooc.runcase.Login">
-                <methods>
-                    <include name="checkBox"></include>
-                    <include name="TestAddCart"></include>
-                    <include name="TestSureOrder"></include>
-                    <include name="TestGoPay"></include>
-                    <exclude name="TestGoPay"></exclude>
-                </methods>
-            </class>
-        </classes>
-    </test>
+<!--    <test name="添加购物车">-->
+<!--        <classes>-->
+<!--            &lt;!&ndash;下订单用例&ndash;&gt;-->
+<!--            <class name="com.mushishi.imooc.runcase.Login">-->
+<!--                <methods>-->
+<!--                    <include name="checkBox"></include>-->
+<!--                    <include name="TestAddCart"></include>-->
+<!--                    <include name="TestSureOrder"></include>-->
+<!--                    <include name="TestGoPay"></include>-->
+<!--                    <exclude name="TestGoPay"></exclude>-->
+
+<!--                </methods>-->
+<!--            </class>-->
+<!--        </classes>-->
+<!--    </test>-->
     <listeners>
         <!--接口自动化测试报告-->
         <!--<listener class-name="com.demo.ExtentTestNGIReporter" />-->

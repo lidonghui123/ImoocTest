@@ -14,7 +14,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.*;
 
-//@Listeners(TestNGListenerScreen.class)
+@Listeners(TestNGListenerScreen.class)
 public class Login extends BaseCase {
     //实例化log4j
     static Logger logger = Logger.getLogger(Login.class);

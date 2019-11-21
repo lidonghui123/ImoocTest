@@ -35,4 +35,12 @@
 <!--            </class>-->
         </classes>
     </test>
+    <listeners>
+        <!--接口自动化测试报告-->
+        <!--<listener class-name="com.demo.ExtentTestNGIReporter" />-->
+        <!--ui自动化测试报告-->
+        <listener class-name= "org.uncommons.reportng.HTMLReporter"></listener>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"></listener>
+        <listener class-name="com.demo.ExtentTestNGIReporter"></listener>
+    </listeners>
 </suite>

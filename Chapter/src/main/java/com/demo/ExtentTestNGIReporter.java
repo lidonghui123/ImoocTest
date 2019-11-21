@@ -34,12 +34,13 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
 public class ExtentTestNGIReporter implements IReporter {
+    private static final String OUTPUT_FOLDER = "report/";
     private long currentTime = System.currentTimeMillis();
     private SimpleDateFormat formatter = new SimpleDateFormat ("yyyy年-MM月-dd日-HH时mm分ss秒");
     private Date date = new Date(currentTime);
     private String reportdate = formatter.format(date);
 
-    private String path = System.getProperty("user.dir")+File.separator+reportdate+"report.html";
+    private String path = System.getProperty("user.dir")+File.separator+OUTPUT_FOLDER+"\\"+reportdate+"report.html";
 
     private String templatePath = System.getProperty("user.dir")+File.separator+"template.html";
 

@@ -3,16 +3,16 @@
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
 <head>
-  <title>Test Results Report - 登录测试！</title>
+  <title>Test Results Report - 添加购物车</title>
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
   <meta name="description" content="TestNG unit test results." />
   <link href="reportng.css" rel="stylesheet" type="text/css" />
     <script type="text/javascript" src="reportng.js"></script>
 </head>
 <body>
-<h1>登录测试！</h1>
+<h1>添加购物车</h1>
 <p>
-  Test duration: 15.369s
+  Test duration: 20.848s
 </p>
 
 
@@ -20,29 +20,27 @@
   <table class="resultsTable">
     <tr><th colspan="3" class="header failed">Failed Tests</th></tr>
           <tr>
-        <td colspan="3" class="group">com.mushishi.imooc.runcase.LoginCase</td>
+        <td colspan="3" class="group">com.mushishi.imooc.runcase.Login</td>
       </tr>
             
 <tr>
   <td class="method">
-                  <span class="description" title="登录成功">TestLoginSuccess</span>
+                  <span class="description" title="跳转支付">TestGoPay</span>
       </td>
   <td class="duration">
-    2.382s
+    0.116s
   </td>
   <td class="result">
         
-          <i>Method arguments: </i><span class="arguments">"1323134804@qq.com", "libowen88"</span><br />
     
         
 
-        <a href="javascript:toggleElement('exception-0', 'block')" title="Click to expand/collapse"><b>java.lang.IllegalArgumentException: Must provide a location for a move action.</b></a><br />
+        <a href="javascript:toggleElement('exception-0', 'block')" title="Click to expand/collapse"><b>java.lang.NullPointerException</b></a><br />
     <div class="stackTrace" id="exception-0">
-              org.openqa.selenium.interactions.MoveMouseAction.&lt;init&gt;(MoveMouseAction.java:38)<br />
-              org.openqa.selenium.interactions.Actions.moveToElement(Actions.java:388)<br />
-              com.mushishi.imooc.page.BasePage.MoveToElement(BasePage.java:119)<br />
-              com.mushishi.imooc.handle.LoginHandle.GetUserText(LoginHandle.java:39)<br />
-              com.mushishi.imooc.runcase.LoginCase.TestLoginSuccess(LoginCase.java:63)<br />
+              com.mushishi.imooc.page.BasePage.gettext(BasePage.java:79)<br />
+              com.mushishi.imooc.handle.OrderPayPageHandle.getOrderName(OrderPayPageHandle.java:24)<br />
+              com.mushishi.imooc.business.OrderPayPagepro.orderPayPro(OrderPayPagepro.java:20)<br />
+              com.mushishi.imooc.runcase.Login.TestGoPay(Login.java:114)<br />
               sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
               sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)<br />
               sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
@@ -69,6 +67,55 @@
       </table>
 
 
+  <table class="resultsTable">
+    <tr><th colspan="3" class="header passed">Passed Tests</th></tr>
+          <tr>
+        <td colspan="3" class="group">com.mushishi.imooc.runcase.Login</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  <span class="description" title="立即购买">TestAddCart</span>
+      </td>
+  <td class="duration">
+    0.145s
+  </td>
+  <td class="result">
+        
+    
+        
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  <span class="description" title="提交订单">TestSureOrder</span>
+      </td>
+  <td class="duration">
+    0.628s
+  </td>
+  <td class="result">
+        
+    
+        
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  <span class="description" title="登录测试">checkBox</span>
+      </td>
+  <td class="duration">
+    10.970s
+  </td>
+  <td class="result">
+        
+    
+        
+
+      </td>
+</tr>
+      </table>
   
 </body>
 </html>

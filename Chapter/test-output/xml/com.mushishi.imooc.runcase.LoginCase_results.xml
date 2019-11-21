@@ -4,9 +4,9 @@
            failures="1"
            errors="0"
            skipped="0"
-           time="2.382">
+           time="2.409">
   <properties />
-            <testcase name="TestLoginSuccess" time="2.382" classname="com.mushishi.imooc.runcase.LoginCase">
+            <testcase name="TestLoginSuccess" time="2.409" classname="com.mushishi.imooc.runcase.LoginCase">
                 <failure type="java.lang.IllegalArgumentException"
                   message="Must provide a location for a move action."
               >
@@ -15,7 +15,7 @@
   org.openqa.selenium.interactions.Actions.moveToElement(Actions.java:388)
   com.mushishi.imooc.page.BasePage.MoveToElement(BasePage.java:119)
   com.mushishi.imooc.handle.LoginHandle.GetUserText(LoginHandle.java:39)
-  com.mushishi.imooc.runcase.LoginCase.TestLoginSuccess(LoginCase.java:63)
+  com.mushishi.imooc.runcase.LoginCase.TestLoginSuccess(LoginCase.java:66)
   sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
   sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
   sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)

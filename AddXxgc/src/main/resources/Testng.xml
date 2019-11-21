@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="UI自动化测试套件" parallel="tests" thread-count="3">
+    <parameter name="username1" value="1323134804@qq.com"></parameter>
+    <parameter name="password" value="libowen88"></parameter>
+    <parameter name="url" value="https://www.imooc.com"></parameter>
+    <!--<parameter name="browser" value="chrome"></parameter>-->
+    <parameter name="browser1" value="chrome"></parameter>
+    <parameter name="browser" value="chrome"></parameter>
+
+    <test name="添加购物车">
+        <classes>
+            <!--下订单用例-->
+            <class name="com.mushishi.imooc.runcase.Login">
+                <methods>
+                    <include name="checkBox"></include>
+                    <include name="TestAddCart"></include>
+                    <include name="TestSureOrder"></include>
+                    <include name="TestGoPay"></include>
+                    <!--<exclude name="TestGoPay"></exclude>-->
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <listeners>
+        <!--ui自动化测试报告-->
+        <listener class-name= "org.uncommons.reportng.HTMLReporter"></listener>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"></listener>
+        <listener class-name="com.demo.TestCaseReport"></listener>
+    </listeners>
+</suite>

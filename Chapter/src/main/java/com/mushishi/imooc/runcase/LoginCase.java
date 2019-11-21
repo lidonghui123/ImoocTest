@@ -18,8 +18,8 @@ public class LoginCase extends BaseCase{
     public WebDriver driver;
     LoginHandle loginHandle;
     @Parameters({"url","browser"})
-    //@BeforeClass(description = "登录初始化浏览器")
-    @BeforeGroups (groups = "error")
+    @BeforeClass(description = "登录初始化浏览器")
+    //@BeforeGroups (groups = "error")
     public void beforeClass(String url,String browser) {
         System.out.println("————————————————————————》");
         //应该引入log4j的目录以及文件
@@ -54,7 +54,7 @@ public class LoginCase extends BaseCase{
      * 测试登录成功用例
      */
     @Parameters({"username1","password"})
-    @Test(description = "登录成功",groups = "sucess")
+    @Test(description = "登录成功")
     public void TestLoginSuccess(String username1,String password) throws InterruptedException {
         System.out.println("————————————————————————》");
         logger.debug("开始第一个执行case");
@@ -67,7 +67,7 @@ public class LoginCase extends BaseCase{
         //登录后的用户名判断
         Assert.assertEquals(username,"dong辉");
     }
-    @Test(description = "登录失败",groups ="error")
+    @Test(description = "登录失败")
     public void TestLoginError() throws InterruptedException {
         logger.debug("开始第二个执行case");
         loginHandle.SendEmail("1323134804@qq.com");

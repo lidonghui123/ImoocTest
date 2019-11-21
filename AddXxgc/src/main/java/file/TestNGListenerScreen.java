@@ -1,7 +1,5 @@
-package com.mushishi.imooc.util;
+package file;
 
-import com.mushishi.imooc.runcase.Login;
-import com.mushishi.imooc.runcase.LoginCase;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.remote.RemoteWebDriver;
@@ -14,28 +12,13 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 public class TestNGListenerScreen extends TestListenerAdapter {
-
-    private  final String OUTPUT_FOLDER = "screen/";
     public WebDriver driver;
+
     @Override
     public void onTestFailure(ITestResult tr) {
+        //System.out.println("------------"+tr.getInstanceName());
+        //System.out.println("------------>"+tr.getInstance());
         //System.err.println("第一case失败");
-        String a = tr.getInstanceName();
-        System.out.println("------------"+tr.getInstanceName());
-        System.out.println("------------"+tr.getInstanceName());
-        if(a.contains("LoginCase")){
-            //实例化testng
-            LoginCase s = (LoginCase)tr.getInstance();
-            //转换成webdriver
-            this.driver= s.driver;
-        }else if(a.contains("Login")){
-            //实例化testng
-            Login s = (Login)tr.getInstance();
-            //转换成webdriver
-            this.driver= s.driver;
-        }else{
-            System.out.println("无对应的类名！");
-        }
        /* if(tr.equals(Login.class)){
             //实例化testng
             Login s = (Login)tr.getInstance();
@@ -47,10 +30,10 @@ public class TestNGListenerScreen extends TestListenerAdapter {
             //转换成webdriver
             this.driver= s.driver;
         }*/
-//        //实例化testng
-//        LoginCase s = (LoginCase)tr.getInstance();
-//        //转换成webdriver
-//        this.driver= s.driver;
+        //实例化testng
+        LoginCase s = (LoginCase)tr.getInstance();
+        //转换成webdriver
+        driver= s.driver;
         //调用截图方法
         this.TakeSecreenShot(driver);
         //调用父类方法
@@ -72,7 +55,7 @@ public class TestNGListenerScreen extends TestListenerAdapter {
         File scrFile = ((RemoteWebDriver)driver).getScreenshotAs(OutputType.FILE);
         // 图片存放的位置
         try {
-            com.google.common.io.Files.copy(scrFile, new File(curPath + "\\"+OUTPUT_FOLDER+"\\"+ pngPath));
+            com.google.common.io.Files.copy(scrFile, new File(curPath + "\\" + pngPath));
         } catch (IOException e) {
             e.printStackTrace();
         }
