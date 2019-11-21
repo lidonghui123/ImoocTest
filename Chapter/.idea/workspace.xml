@@ -4,71 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/com/mushishi/imooc/business/CoursePagePro.java" line="23" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a35b2bd-ca1f-4260-ac64-f918bd4b21f3" name="Default Changelist" comment="&quot;libowen 2019-11-20-01&quot;">
-      <change afterPath="$PROJECT_DIR$/../AddXxgc/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AddXxgc/src/main/java/file/TestNGListenerScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AddXxgc/src/main/resources/Testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screen/com.mushishi.imooc.util.TestNGListenerScreen_2019_11_21_20_49_05.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AddXxgc/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AddXxgc/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AddXxgc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AddXxgc/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AddXxgc/AddXxgc.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AddXxgc/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../AddXxgc/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019年-11月-19日-10时49分38秒report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019年-11月-19日-13时29分28秒report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019年-11月-19日-13时32分31秒report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019年-11月-19日-20时57分02秒report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019年-11月-19日-20时59分18秒report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019年-11月-19日-21时17分28秒report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019年-11月-19日-21时18分45秒report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019年-11月-19日-21时19分47秒report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019年-11月-19日-21时25分39秒report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019年-11月-19日-21时42分29秒report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019年-11月-19日-22时08分10秒report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019年-11月-19日-22时11分31秒report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019年-11月-19日-22时16分57秒report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019年-11月-19日-22时18分01秒report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019年-11月-19日-22时18分27秒report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019年-11月-19日-22时19分34秒report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019年-11月-19日-22时22分24秒report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019年-11月-19日-22时27分02秒report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019年-11月-19日-22时27分40秒report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019年-11月-19日-22时28分27秒report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019年-11月-19日-22时32分39秒report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.mushishi.imooc.util.TestNGListenerScreen_2019_11_19_10_50_08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.mushishi.imooc.util.TestNGListenerScreen_2019_11_19_20_59_44.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.mushishi.imooc.util.TestNGListenerScreen_2019_11_19_21_18_59.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.mushishi.imooc.util.TestNGListenerScreen_2019_11_19_21_20_09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.mushishi.imooc.util.TestNGListenerScreen_2019_11_19_21_26_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.mushishi.imooc.util.TestNGListenerScreen_2019_11_19_21_42_43.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.mushishi.imooc.util.TestNGListenerScreen_2019_11_19_22_08_23.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.mushishi.imooc.util.TestNGListenerScreen_2019_11_19_22_11_45.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.mushishi.imooc.util.TestNGListenerScreen_2019_11_19_22_17_12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.mushishi.imooc.util.TestNGListenerScreen_2019_11_19_22_22_38.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.mushishi.imooc.util.TestNGListenerScreen_2019_11_19_22_27_15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.mushishi.imooc.util.TestNGListenerScreen_2019_11_19_22_27_53.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.mushishi.imooc.util.TestNGListenerScreen_2019_11_19_22_28_50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.mushishi.imooc.util.TestNGListenerScreen_2019_11_19_22_32_52.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.mushishi.imooc.util.TestNGListenerScreen_2019_11_20_08_34_54.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.mushishi.imooc.util.TestNGListenerScreen_2019_11_20_08_54_31.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.mushishi.imooc.util.TestNGListenerScreen_2019_11_20_09_35_40.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/ExtentTestNGIReporter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/demo/ExtentTestNGIReporter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/LoginCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/LoginCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/util/TestNGListenerScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/util/TestNGListenerScreen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/case.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/case.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/case.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/case.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/template.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template.html.bak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/html/overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/overview.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/html/suite1_test1_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite1_test1_results.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/html/suite1_test2_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite1_test2_results.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/html/suites.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suites.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/xml/com.mushishi.imooc.runcase.LoginCase_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.mushishi.imooc.runcase.LoginCase_results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/xml/com.mushishi.imooc.runcase.Login_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.mushishi.imooc.runcase.Login_results.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5a35b2bd-ca1f-4260-ac64-f918bd4b21f3" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -114,8 +50,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/Testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+            <state relative-caret-position="208">
+              <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -288,9 +224,8 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="143" />
-    <option name="y" value="196" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="196" />
     <option name="width" value="1824" />
     <option name="height" value="1100" />
   </component>
@@ -473,7 +408,7 @@
       <workItem from="1574052133568" duration="30456000" />
       <workItem from="1574236518000" duration="1598000" />
       <workItem from="1574316098921" duration="5487000" />
-      <workItem from="1574325354916" duration="12558000" />
+      <workItem from="1574325354916" duration="13175000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;libowen-11.8&quot;">
       <created>1573200546592</created>
@@ -524,7 +459,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574236776402</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="&quot;libowen 2019-11-21&quot;">
+      <created>1574341312031</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1574341312031</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -560,7 +502,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="227617000" />
+    <option name="totallyTimeSpent" value="228234000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -658,7 +600,8 @@
     <MESSAGE value="&quot;libowen 2019-11-15&quot;" />
     <MESSAGE value="&quot;libowen 2019-11-18&quot;" />
     <MESSAGE value="&quot;libowen 2019-11-20-01&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;libowen 2019-11-20-01&quot;" />
+    <MESSAGE value="&quot;libowen 2019-11-21&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;libowen 2019-11-21&quot;" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$USER_HOME$/.m2/repository/org/testng/testng/6.14.2/testng-6.14.2.jar!/org/testng/annotations/Test.class">
@@ -1077,8 +1020,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/Testng.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        <state relative-caret-position="208">
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
         </state>
       </provider>
     </entry>
