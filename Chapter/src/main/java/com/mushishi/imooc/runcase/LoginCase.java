@@ -21,6 +21,7 @@ public class LoginCase extends BaseCase{
     @BeforeClass(description = "登录初始化浏览器")
     //@BeforeGroups (groups = "error")
     public void beforeClass(String url,String browser) {
+        logger.error("");
         System.out.println("————————————————————————》");
         //应该引入log4j的目录以及文件
         PropertyConfigurator.configure("log4j.properties");

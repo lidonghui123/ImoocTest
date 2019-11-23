@@ -63,12 +63,12 @@
         <dependency>
             <groupId>com.google.code.gson</groupId>
             <artifactId>gson</artifactId>
-            <version>2.8.5</version>
+            <version>2.8.6</version>
         </dependency>
         <dependency>
             <groupId>org.uncommons</groupId>
             <artifactId>reportng</artifactId>
-            <version>1.1.4</version>
+            <version>1.1.3</version>
             <scope>test</scope>
         </dependency>
         <dependency>
@@ -79,7 +79,14 @@
         <dependency>
             <groupId>com.google.code.gson</groupId>
             <artifactId>gson</artifactId>
-            <version>2.8.5</version>
+            <version>2.8.6</version>
+        </dependency>
+        <!--injec错误-->
+        <dependency>
+            <groupId>com.google.inject</groupId>
+            <artifactId>guice</artifactId>
+            <version>3.0</version>
+            <scope>test</scope>
         </dependency>
         <!--mysql-5.5.62-->
         <dependency>

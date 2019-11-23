@@ -13,11 +13,11 @@ public class BaseCase {
         //判断传入的值,别用纯equals判断，可能会忽略大小写。
         if(browser.equalsIgnoreCase("chrome")){
             //driver文件配置
-            System.setProperty("webdriver.chrome.driver", "E:\\selenium\\chromedriver.exe");
+            System.setProperty("webdriver.chrome.driver", "D:\\web_selenium\\chromedriver.exe");
             driver = new ChromeDriver();
             driver.manage().window().maximize();
         }else {
-            System.setProperty("webdriver.chrome.driver", "E:\\selenium\\360\\chromedriver.exe");
+            System.setProperty("webdriver.chrome.driver", "D:\\web_selenium\\chromedriver.exe");
             ChromeOptions options = new ChromeOptions();
             options.setBinary("C:\\Users\\libw-c\\AppData\\Roaming\\360se6\\Application\\360se.exe");
              driver = new ChromeDriver(options);

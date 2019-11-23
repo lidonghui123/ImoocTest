@@ -24,6 +24,7 @@ public class BasePage {
      */
     public WebElement GetElement(String key){
         logger.debug("封装方法"+key);
+        //循环查找十次元素
         boolean flag=true;
         int i =0;
         WebElement Element=null;

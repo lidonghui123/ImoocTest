@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="登录测试！"
-           tests="1"
-           failures="1"
+<testsuite name="添加购物车"
+           tests="2"
+           failures="2"
            errors="0"
            skipped="0"
-           time="2.409">
+           time="4.863">
   <properties />
-            <testcase name="TestLoginSuccess" time="2.409" classname="com.mushishi.imooc.runcase.LoginCase">
+            <testcase name="TestLoginSuccess" time="2.359" classname="com.mushishi.imooc.runcase.LoginCase">
                 <failure type="java.lang.IllegalArgumentException"
                   message="Must provide a location for a move action."
               >
@@ -19,7 +19,7 @@
   sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
   sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
   sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-  java.lang.reflect.Method.invoke(Method.java:498)
+  java.lang.reflect.Method.invoke(Method.java:483)
   org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
   org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
   org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
@@ -29,13 +29,55 @@
   org.testng.TestRunner.privateRun(TestRunner.java:648)
   org.testng.TestRunner.run(TestRunner.java:505)
   org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
-  org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
-  org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
-  org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
-  java.util.concurrent.FutureTask.run(FutureTask.java:266)
-  java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-  java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-  java.lang.Thread.run(Thread.java:748)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+  org.testng.SuiteRunner.run(SuiteRunner.java:364)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+  org.testng.TestNG.runSuites(TestNG.java:1049)
+  org.testng.TestNG.run(TestNG.java:1017)
+  org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:73)
+  org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:123)
+]]>
+      </failure>
+
+          </testcase>
+            <testcase name="TestLoginError" time="2.504" classname="com.mushishi.imooc.runcase.LoginCase">
+                <failure type="java.lang.IllegalArgumentException"
+                  message="Must provide a location for a move action."
+              >
+<![CDATA[java.lang.IllegalArgumentException: Must provide a location for a move action.
+  org.openqa.selenium.interactions.MoveMouseAction.<init>(MoveMouseAction.java:38)
+  org.openqa.selenium.interactions.Actions.moveToElement(Actions.java:388)
+  com.mushishi.imooc.page.BasePage.MoveToElement(BasePage.java:119)
+  com.mushishi.imooc.handle.LoginHandle.GetUserText(LoginHandle.java:39)
+  com.mushishi.imooc.runcase.LoginCase.TestLoginError(LoginCase.java:78)
+  sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+  sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+  java.lang.reflect.Method.invoke(Method.java:483)
+  org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+  org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+  org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+  org.testng.TestRunner.privateRun(TestRunner.java:648)
+  org.testng.TestRunner.run(TestRunner.java:505)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+  org.testng.SuiteRunner.run(SuiteRunner.java:364)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+  org.testng.TestNG.runSuites(TestNG.java:1049)
+  org.testng.TestNG.run(TestNG.java:1017)
+  org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:73)
+  org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:123)
 ]]>
       </failure>
 

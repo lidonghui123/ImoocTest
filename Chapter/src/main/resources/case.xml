@@ -10,11 +10,11 @@
 
     <test name="添加购物车">
 
-        <groups>
-            <run>
-                <include name="error" />
-            </run>
-        </groups>
+<!--        <groups>-->
+<!--            <run>-->
+<!--                <include name="error" />-->
+<!--            </run>-->
+<!--        </groups>-->
         <classes>
             <class name="com.mushishi.imooc.runcase.LoginCase"></class>
             <!--测试LoginCase-->

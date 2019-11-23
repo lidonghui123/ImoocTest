@@ -1,13 +1,16 @@
 package com.xxgc.runcase;
 
 import com.xxgc.handle.LoginHandle;
-import com.mushishi.imooc.util.TestNGListenerScreen;
+import com.xxgc.util.TestNGListenerScreen;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
-import org.testng.annotations.*;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Listeners;
+import org.testng.annotations.Test;
 
 @Listeners({TestNGListenerScreen.class})
 public class LoginCase extends BaseCase {
@@ -16,16 +19,16 @@ public class LoginCase extends BaseCase {
     //全局变量
     public WebDriver driver;
     LoginHandle loginHandle;
-    @Parameters({"url","browser"})
     @BeforeClass
-    public void beforeClass(String url,String browser) {
+    public void beforeClass() {
         //应该引入log4j的目录以及文件
         PropertyConfigurator.configure("log4j.properties");
         logger.debug("初始化浏览器");
         //配置浏览器参数
-        driver = GetDriver(browser);
+        System.setProperty("webdriver.chrome.driver", "D:\\web_selenium\\chromedriver.exe");
+        driver = new ChromeDriver();
         logger.debug("打开浏览器");
-        driver.get(url);
+        driver.get("https://www.imooc.com");
         //Dimension dimension = new Dimension(1355,884);
         //driver.manage().window().setSize(dimension);
         //浏览器窗口最大化
@@ -36,7 +39,7 @@ public class LoginCase extends BaseCase {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        driver.findElement(By.className("redrain-closeBtn")).click();
+        // driver.findElement(By.className("redrain-closeBtn")).click();
         //new 一个loginHandle的对象
         loginHandle = new LoginHandle(driver);
         //点击登录按钮
@@ -50,18 +53,17 @@ public class LoginCase extends BaseCase {
     }
     @AfterClass
     public void afterClass(){
-        //driver.close();
+        driver.close();
     }
 
     /**
      * 测试登录成功用例
      */
-    @Parameters({"username1","password"})
     @Test
-    public void TestLoginSuccess(String username1,String password) throws InterruptedException {
+    public void TestLoginSuccess() throws InterruptedException {
         logger.debug("开始第一个执行case");
-        loginHandle.SendEmail(username1);
-        loginHandle.SendPassword(password);
+        loginHandle.SendEmail("13231354644!");
+        loginHandle.SendPassword("dewdweedewd");
         loginHandle.ClickLogin();
         Thread.sleep(2000);
         //引入登录后名字

@@ -24,7 +24,7 @@ public class Login extends BaseCase {
     public SureOrderPagePro sopp;
     public OrderPayPagepro opp;
 
-    @Parameters({"url","browser1"})
+    //@Parameters({"url","browser1"})
     @BeforeClass(description = "初始化用例")
     public void courseList1(String url,String browser1) {
         //预加载log4j
