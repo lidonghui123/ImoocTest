@@ -23,6 +23,7 @@ public class BasePage {
      * Element方法封装
      */
     public WebElement GetElement(String key){
+        //测试的方法待确定！
         logger.debug("封装方法"+key);
         //循环查找十次元素
         boolean flag=true;
