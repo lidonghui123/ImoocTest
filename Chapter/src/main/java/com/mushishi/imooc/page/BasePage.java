@@ -26,7 +26,13 @@ public class BasePage {
         //测试的方法待确定！
         logger.debug("封装方法"+key);
         //循环查找十次元素
-        boolean flag=true;
+        boolean flag= false;
+        //捕获异常
+        try {
+            flag = true;
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
         int i =0;
         WebElement Element=null;
         while(flag) {
