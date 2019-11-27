@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a35b2bd-ca1f-4260-ac64-f918bd4b21f3" name="Default Changelist" comment="&quot;libowen 2019-11-21&quot;">
+    <list default="true" id="5a35b2bd-ca1f-4260-ac64-f918bd4b21f3" name="Default Changelist" comment="&quot;libowen 11-23&quot;">
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Chapter_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/src/main/java/com/course/testng/BasicAnnotation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
