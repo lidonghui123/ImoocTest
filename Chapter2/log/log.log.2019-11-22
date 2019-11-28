@@ -1,0 +1,269 @@
+2019-11-22 10:03:19 - [ DEBUG ]  com.mushishi.imooc.runcase.LoginCase.beforeClass(LoginCase.java:27) TestNG-tests-1 com.mushishi.imooc.runcase.LoginCase - 初始化浏览器 
+2019-11-22 10:03:23 - [ DEBUG ]  com.mushishi.imooc.runcase.LoginCase.beforeClass(LoginCase.java:30) TestNG-tests-1 com.mushishi.imooc.runcase.LoginCase - 打开浏览器 
+2019-11-22 10:03:45 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetElement(BasePage.java:26) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 封装方法signin_button 
+2019-11-22 10:03:45 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:signin_button 
+2019-11-22 10:03:45 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 10:03:45 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为js-signin-btn 
+2019-11-22 10:03:47 - [ DEBUG ]  com.mushishi.imooc.runcase.LoginCase.TestLoginSuccess(LoginCase.java:60) TestNG-tests-1 com.mushishi.imooc.runcase.LoginCase - 开始第一个执行case 
+2019-11-22 10:03:47 - [ DEBUG ]  com.mushishi.imooc.handle.LoginHandle.SendEmail(LoginHandle.java:19) TestNG-tests-1 com.mushishi.imooc.handle.LoginHandle - 你输入的用户邮箱：1323134804@qq.com 
+2019-11-22 10:03:47 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetElement(BasePage.java:26) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 封装方法email 
+2019-11-22 10:03:47 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:email 
+2019-11-22 10:03:47 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为name 
+2019-11-22 10:03:47 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为email 
+2019-11-22 10:03:48 - [ DEBUG ]  com.mushishi.imooc.handle.LoginHandle.SendPassword(LoginHandle.java:24) TestNG-tests-1 com.mushishi.imooc.handle.LoginHandle - 你输入的密码：libowen88 
+2019-11-22 10:03:48 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetElement(BasePage.java:26) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 封装方法password 
+2019-11-22 10:03:48 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:password 
+2019-11-22 10:03:48 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为name 
+2019-11-22 10:03:48 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为password 
+2019-11-22 10:03:48 - [ DEBUG ]  com.mushishi.imooc.handle.LoginHandle.ClickLogin(LoginHandle.java:33) TestNG-tests-1 com.mushishi.imooc.handle.LoginHandle - 你开始点击登录按钮 
+2019-11-22 10:03:48 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetElement(BasePage.java:26) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 封装方法loginbutton 
+2019-11-22 10:03:48 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:loginbutton 
+2019-11-22 10:03:48 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为className 
+2019-11-22 10:03:48 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为moco-btn-red 
+2019-11-22 10:03:50 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetElement(BasePage.java:26) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 封装方法headpng 
+2019-11-22 10:03:50 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:headpng 
+2019-11-22 10:03:50 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 10:03:50 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为header-avator 
+2019-11-22 10:03:50 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:headpng 
+2019-11-22 10:03:50 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 10:03:50 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为header-avator 
+2019-11-22 10:03:50 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:headpng 
+2019-11-22 10:03:50 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 10:03:50 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为header-avator 
+2019-11-22 10:03:50 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:headpng 
+2019-11-22 10:03:50 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 10:03:50 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为header-avator 
+2019-11-22 10:03:50 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:headpng 
+2019-11-22 10:03:50 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 10:03:50 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为header-avator 
+2019-11-22 10:03:50 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:headpng 
+2019-11-22 10:03:50 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 10:03:50 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为header-avator 
+2019-11-22 10:03:50 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:headpng 
+2019-11-22 10:03:50 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 10:03:50 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为header-avator 
+2019-11-22 10:03:50 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:headpng 
+2019-11-22 10:03:50 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 10:03:50 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为header-avator 
+2019-11-22 10:03:50 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:headpng 
+2019-11-22 10:03:50 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 10:03:50 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为header-avator 
+2019-11-22 10:03:50 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:headpng 
+2019-11-22 10:03:50 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 10:03:50 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为header-avator 
+2019-11-22 10:05:53 - [ DEBUG ]  com.mushishi.imooc.runcase.LoginCase.beforeClass(LoginCase.java:26) TestNG-tests-1 com.mushishi.imooc.runcase.LoginCase - 初始化浏览器 
+2019-11-22 10:05:58 - [ DEBUG ]  com.mushishi.imooc.runcase.LoginCase.beforeClass(LoginCase.java:29) TestNG-tests-1 com.mushishi.imooc.runcase.LoginCase - 打开浏览器 
+2019-11-22 10:06:38 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetElement(BasePage.java:26) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 封装方法signin_button 
+2019-11-22 10:06:38 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:signin_button 
+2019-11-22 10:06:38 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 10:06:38 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为js-signin-btn 
+2019-11-22 10:06:45 - [ DEBUG ]  com.mushishi.imooc.runcase.LoginCase.TestLoginSuccess(LoginCase.java:59) TestNG-tests-1 com.mushishi.imooc.runcase.LoginCase - 开始第一个执行case 
+2019-11-22 10:06:45 - [ DEBUG ]  com.mushishi.imooc.handle.LoginHandle.SendEmail(LoginHandle.java:19) TestNG-tests-1 com.mushishi.imooc.handle.LoginHandle - 你输入的用户邮箱：1323134804@qq.com 
+2019-11-22 10:06:45 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetElement(BasePage.java:26) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 封装方法email 
+2019-11-22 10:06:45 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:email 
+2019-11-22 10:06:45 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为name 
+2019-11-22 10:06:45 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为email 
+2019-11-22 10:06:45 - [ DEBUG ]  com.mushishi.imooc.handle.LoginHandle.SendPassword(LoginHandle.java:24) TestNG-tests-1 com.mushishi.imooc.handle.LoginHandle - 你输入的密码：libowen88 
+2019-11-22 10:06:45 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetElement(BasePage.java:26) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 封装方法password 
+2019-11-22 10:06:45 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:password 
+2019-11-22 10:06:45 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为name 
+2019-11-22 10:06:45 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为password 
+2019-11-22 10:06:45 - [ DEBUG ]  com.mushishi.imooc.handle.LoginHandle.ClickLogin(LoginHandle.java:33) TestNG-tests-1 com.mushishi.imooc.handle.LoginHandle - 你开始点击登录按钮 
+2019-11-22 10:06:45 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetElement(BasePage.java:26) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 封装方法loginbutton 
+2019-11-22 10:06:45 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:loginbutton 
+2019-11-22 10:06:45 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为className 
+2019-11-22 10:06:45 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为moco-btn-red 
+2019-11-22 10:06:52 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetElement(BasePage.java:26) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 封装方法headpng 
+2019-11-22 10:06:52 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:headpng 
+2019-11-22 10:06:52 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 10:06:52 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为header-avator 
+2019-11-22 10:06:52 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:headpng 
+2019-11-22 10:06:52 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 10:06:52 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为header-avator 
+2019-11-22 10:06:52 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:headpng 
+2019-11-22 10:06:52 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 10:06:52 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为header-avator 
+2019-11-22 10:06:52 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:headpng 
+2019-11-22 10:06:52 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 10:06:52 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为header-avator 
+2019-11-22 10:06:52 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:headpng 
+2019-11-22 10:06:52 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 10:06:52 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为header-avator 
+2019-11-22 10:06:52 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:headpng 
+2019-11-22 10:06:52 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 10:06:52 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为header-avator 
+2019-11-22 10:06:52 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:headpng 
+2019-11-22 10:06:52 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 10:06:52 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为header-avator 
+2019-11-22 10:06:52 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:headpng 
+2019-11-22 10:06:52 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 10:06:52 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为header-avator 
+2019-11-22 10:06:52 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:headpng 
+2019-11-22 10:06:52 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 10:06:52 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为header-avator 
+2019-11-22 10:06:52 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:headpng 
+2019-11-22 10:06:52 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 10:06:52 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为header-avator 
+2019-11-22 10:15:37 - [ DEBUG ]  com.mushishi.imooc.runcase.LoginCase.beforeClass(LoginCase.java:26) TestNG-tests-1 com.mushishi.imooc.runcase.LoginCase - 初始化浏览器 
+2019-11-22 10:15:41 - [ DEBUG ]  com.mushishi.imooc.runcase.LoginCase.beforeClass(LoginCase.java:29) TestNG-tests-1 com.mushishi.imooc.runcase.LoginCase - 打开浏览器 
+2019-11-22 10:15:54 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetElement(BasePage.java:26) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 封装方法signin_button 
+2019-11-22 10:15:54 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:signin_button 
+2019-11-22 10:15:54 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 10:15:54 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为js-signin-btn 
+2019-11-22 10:15:56 - [ DEBUG ]  com.mushishi.imooc.runcase.LoginCase.TestLoginSuccess(LoginCase.java:59) TestNG-tests-1 com.mushishi.imooc.runcase.LoginCase - 开始第一个执行case 
+2019-11-22 10:15:56 - [ DEBUG ]  com.mushishi.imooc.handle.LoginHandle.SendEmail(LoginHandle.java:19) TestNG-tests-1 com.mushishi.imooc.handle.LoginHandle - 你输入的用户邮箱：1323134804@qq.com 
+2019-11-22 10:15:56 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetElement(BasePage.java:26) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 封装方法email 
+2019-11-22 10:15:56 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:email 
+2019-11-22 10:15:56 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为name 
+2019-11-22 10:15:56 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为email 
+2019-11-22 10:15:56 - [ DEBUG ]  com.mushishi.imooc.handle.LoginHandle.SendPassword(LoginHandle.java:24) TestNG-tests-1 com.mushishi.imooc.handle.LoginHandle - 你输入的密码：libowen88 
+2019-11-22 10:15:56 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetElement(BasePage.java:26) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 封装方法password 
+2019-11-22 10:15:56 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:password 
+2019-11-22 10:15:56 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为name 
+2019-11-22 10:15:56 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为password 
+2019-11-22 10:15:57 - [ DEBUG ]  com.mushishi.imooc.handle.LoginHandle.ClickLogin(LoginHandle.java:33) TestNG-tests-1 com.mushishi.imooc.handle.LoginHandle - 你开始点击登录按钮 
+2019-11-22 10:15:57 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetElement(BasePage.java:26) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 封装方法loginbutton 
+2019-11-22 10:15:57 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:loginbutton 
+2019-11-22 10:15:57 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为className 
+2019-11-22 10:15:57 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为moco-btn-red 
+2019-11-22 10:15:59 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetElement(BasePage.java:26) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 封装方法headpng 
+2019-11-22 10:15:59 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:headpng 
+2019-11-22 10:15:59 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 10:15:59 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为header-avator 
+2019-11-22 10:15:59 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:headpng 
+2019-11-22 10:15:59 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 10:15:59 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为header-avator 
+2019-11-22 10:15:59 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:headpng 
+2019-11-22 10:15:59 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 10:15:59 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为header-avator 
+2019-11-22 10:15:59 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:headpng 
+2019-11-22 10:15:59 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 10:15:59 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为header-avator 
+2019-11-22 10:15:59 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:headpng 
+2019-11-22 10:15:59 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 10:15:59 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为header-avator 
+2019-11-22 10:15:59 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:headpng 
+2019-11-22 10:15:59 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 10:15:59 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为header-avator 
+2019-11-22 10:15:59 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:headpng 
+2019-11-22 10:15:59 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 10:15:59 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为header-avator 
+2019-11-22 10:15:59 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:headpng 
+2019-11-22 10:15:59 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 10:15:59 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为header-avator 
+2019-11-22 10:15:59 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:headpng 
+2019-11-22 10:15:59 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 10:15:59 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为header-avator 
+2019-11-22 10:15:59 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:headpng 
+2019-11-22 10:15:59 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 10:15:59 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为header-avator 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it. 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("index_en.ftl"): Not found 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("index.ftl"): Found 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/libw-c/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/index.ftl" 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it. 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("head_en.ftl"): Not found 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("head.ftl"): Found 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/libw-c/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/head.ftl" 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it. 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("nav.ftl"): Found 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/libw-c/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/nav.ftl" 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it. 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/libw-c/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl" 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it. 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/libw-c/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl" 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it. 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/libw-c/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl" 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it. 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/libw-c/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl" 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it. 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/libw-c/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl" 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it. 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/libw-c/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl" 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it. 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/libw-c/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl" 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it. 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found 
+2019-11-22 10:16:02 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/libw-c/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl" 
+2019-11-22 11:14:02 - [ DEBUG ]  com.mushishi.imooc.runcase.LoginCase.beforeClass(LoginCase.java:26) TestNG-tests-1 com.mushishi.imooc.runcase.LoginCase - 初始化浏览器 
+2019-11-22 11:14:06 - [ DEBUG ]  com.mushishi.imooc.runcase.LoginCase.beforeClass(LoginCase.java:29) TestNG-tests-1 com.mushishi.imooc.runcase.LoginCase - 打开浏览器 
+2019-11-22 11:14:11 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetElement(BasePage.java:26) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 封装方法signin_button 
+2019-11-22 11:14:11 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:signin_button 
+2019-11-22 11:14:11 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为id 
+2019-11-22 11:14:11 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为js-signin-btn 
+2019-11-22 11:14:18 - [ DEBUG ]  com.mushishi.imooc.runcase.LoginCase.TestLoginSuccess(LoginCase.java:58) TestNG-tests-1 com.mushishi.imooc.runcase.LoginCase - 开始第一个执行case 
+2019-11-22 11:14:18 - [ DEBUG ]  com.mushishi.imooc.handle.LoginHandle.SendEmail(LoginHandle.java:19) TestNG-tests-1 com.mushishi.imooc.handle.LoginHandle - 你输入的用户邮箱：1323134804@qq.com 
+2019-11-22 11:14:18 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetElement(BasePage.java:26) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 封装方法email 
+2019-11-22 11:14:18 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:email 
+2019-11-22 11:14:18 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为name 
+2019-11-22 11:14:18 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为email 
+2019-11-22 11:14:18 - [ DEBUG ]  com.mushishi.imooc.handle.LoginHandle.SendPassword(LoginHandle.java:24) TestNG-tests-1 com.mushishi.imooc.handle.LoginHandle - 你输入的密码：libowen88 
+2019-11-22 11:14:18 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetElement(BasePage.java:26) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 封装方法password 
+2019-11-22 11:14:18 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:password 
+2019-11-22 11:14:18 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为name 
+2019-11-22 11:14:18 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为password 
+2019-11-22 11:14:18 - [ DEBUG ]  com.mushishi.imooc.handle.LoginHandle.ClickLogin(LoginHandle.java:33) TestNG-tests-1 com.mushishi.imooc.handle.LoginHandle - 你开始点击登录按钮 
+2019-11-22 11:14:18 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetElement(BasePage.java:26) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 封装方法loginbutton 
+2019-11-22 11:14:18 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:89) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位信息的key为:loginbutton 
+2019-11-22 11:14:18 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:95) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位方式为className 
+2019-11-22 11:14:18 - [ DEBUG ]  com.mushishi.imooc.page.BasePage.GetByLocal(BasePage.java:96) TestNG-tests-1 com.mushishi.imooc.page.BasePage - 你的定位值为moco-btn-red 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it. 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("index_en.ftl"): Not found 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("index.ftl"): Found 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/libw-c/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/index.ftl" 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it. 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("head_en.ftl"): Not found 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("head.ftl"): Found 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/libw-c/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/head.ftl" 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it. 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("nav.ftl"): Found 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/libw-c/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/nav.ftl" 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it. 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/libw-c/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl" 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it. 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/libw-c/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl" 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it. 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/libw-c/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl" 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it. 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/libw-c/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl" 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it. 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/libw-c/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl" 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it. 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/libw-c/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl" 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it. 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/libw-c/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl" 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it. 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found 
+2019-11-22 11:14:21 - [ DEBUG ]  freemarker.log._Log4jLoggerFactory$Log4jLogger.debug(_Log4jLoggerFactory.java:45) main freemarker.cache - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/libw-c/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl" 
