@@ -12,7 +12,7 @@
 <body>
 <h1>添加购物车</h1>
 <p>
-  Test duration: 19.679s
+  Test duration: 18.040s
 </p>
 
 
@@ -28,7 +28,7 @@
                   <span class="description" title="登录失败">TestLoginError</span>
       </td>
   <td class="duration">
-    2.504s
+    2.475s
   </td>
   <td class="result">
         
@@ -39,7 +39,7 @@
     <div class="stackTrace" id="exception-0">
               org.openqa.selenium.interactions.MoveMouseAction.&lt;init&gt;(MoveMouseAction.java:38)<br />
               org.openqa.selenium.interactions.Actions.moveToElement(Actions.java:388)<br />
-              com.mushishi.imooc.page.BasePage.MoveToElement(BasePage.java:119)<br />
+              com.mushishi.imooc.page.BasePage.MoveToElement(BasePage.java:128)<br />
               com.mushishi.imooc.handle.LoginHandle.GetUserText(LoginHandle.java:39)<br />
               com.mushishi.imooc.runcase.LoginCase.TestLoginError(LoginCase.java:78)<br />
               sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
@@ -74,7 +74,7 @@
                   <span class="description" title="登录成功">TestLoginSuccess</span>
       </td>
   <td class="duration">
-    2.359s
+    0.029s
   </td>
   <td class="result">
         
@@ -82,13 +82,32 @@
     
         
 
-        <a href="javascript:toggleElement('exception-1', 'block')" title="Click to expand/collapse"><b>java.lang.IllegalArgumentException: Must provide a location for a move action.</b></a><br />
+        <a href="javascript:toggleElement('exception-1', 'block')" title="Click to expand/collapse"><b>org.openqa.selenium.ElementNotVisibleException: element not interactable<br/>
+&nbsp; (Session info: chrome=71.0.3578.98)<br/>
+&nbsp; (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)<br/>
+Command duration or timeout: 0 milliseconds<br/>
+Build info: version: &apos;3.11.0&apos;, revision: &apos;e59cfb3&apos;, time: &apos;2018-03-11T20:26:55.152Z&apos;<br/>
+System info: host: &apos;LIBW-PC&apos;, ip: &apos;192.168.1.101&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_05&apos;<br/>
+Driver info: org.openqa.selenium.chrome.ChromeDriver<br/>
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.45.615291 (ec3682e3c9061c..., userDataDir: C:\Users\libw\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57124}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 71.0.3578.98, webStorageEnabled: true}<br/>
+Session ID: 75c44c269ac24b77bda4f62f7c73011f</b></a><br />
     <div class="stackTrace" id="exception-1">
-              org.openqa.selenium.interactions.MoveMouseAction.&lt;init&gt;(MoveMouseAction.java:38)<br />
-              org.openqa.selenium.interactions.Actions.moveToElement(Actions.java:388)<br />
-              com.mushishi.imooc.page.BasePage.MoveToElement(BasePage.java:119)<br />
-              com.mushishi.imooc.handle.LoginHandle.GetUserText(LoginHandle.java:39)<br />
-              com.mushishi.imooc.runcase.LoginCase.TestLoginSuccess(LoginCase.java:66)<br />
+              sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)<br />
+              sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)<br />
+              sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)<br />
+              java.lang.reflect.Constructor.newInstance(Constructor.java:408)<br />
+              org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)<br />
+              org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)<br />
+              org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)<br />
+              org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)<br />
+              org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)<br />
+              org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)<br />
+              org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)<br />
+              org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)<br />
+              org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)<br />
+              org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:100)<br />
+              com.mushishi.imooc.handle.LoginHandle.SendEmail(LoginHandle.java:20)<br />
+              com.mushishi.imooc.runcase.LoginCase.TestLoginSuccess(LoginCase.java:61)<br />
               sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
               sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)<br />
               sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />

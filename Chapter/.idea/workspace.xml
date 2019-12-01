@@ -2,11 +2,144 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a35b2bd-ca1f-4260-ac64-f918bd4b21f3" name="Default Changelist" comment="&quot;libowen 11-23&quot;">
-      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Chapter_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_aventstack_extentreports_3_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_google_guava_guava_23_6_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_google_inject_guice_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_relevantcodes_extentreports_2_41_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_squareup_okio_okio_1_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_vimalselvam_testng_extentsreport_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__javax_mail_mail_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__log4j_log4j_1_2_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__mysql_mysql_connector_java_5_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_commons_commons_email_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_mongodb_bson_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_mongodb_mongodb_driver_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_testng_testng_6_14_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_uncommons_reportng_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_8_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__velocity_velocity_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__velocity_velocity_dep_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__com_aventstack_extentreports_3_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__com_google_guava_guava_23_6_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__com_google_inject_guice_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__com_relevantcodes_extentreports_2_41_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__com_squareup_okio_okio_1_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__com_vimalselvam_testng_extentsreport_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__javax_mail_mail_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__log4j_log4j_1_2_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__org_apache_commons_commons_email_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__org_mongodb_bson_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__org_testng_testng_6_14_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__org_uncommons_reportng_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_8_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__velocity_velocity_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/libraries/Maven__velocity_velocity_dep_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/Chapter2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/application.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Chapter2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/src/main/java/com/course/TimeOutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/src/main/java/com/course/demo/DependTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/src/main/java/com/course/demo/ExpectedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/src/main/java/com/course/demo/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/src/main/java/com/course/muchThread/MultiThreadOnOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/src/main/java/com/course/muchThread/MultiThreadOnXml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/src/main/java/com/course/paramter/DateProviderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/src/main/java/com/course/paramter/PatamterTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Chapter2/src/main/java/com/course/testng/BasicAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/src/main/java/com/imooc/cookies/MyCookiesFoGet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/src/main/java/com/imooc/httpclient/MyHttpclient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/src/main/resources/multiThread.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/src/main/resources/paramter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/startCookies.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2/startup1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019年-11月-21日-20时59分56秒report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019年-11月-23日-17时34分35秒report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/LoginCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mushishi/imooc/runcase/LoginCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/overview.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/reportng.css" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/reportng.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/reportng.js" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/reportng.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/sorttable.js" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/sorttable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/suite1_test1_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite1_test1_results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/suites.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suites.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/com.mushishi.imooc.runcase.LoginCase_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.mushishi.imooc.runcase.LoginCase_results.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +199,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\apache-maven-3.2.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
@@ -80,7 +218,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/xxgc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -88,10 +226,10 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
@@ -205,9 +343,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/libw-c/test/ImoocTest/Chapter/src/main/resources/case.xml" />
         <item itemvalue="TestNG.LoginCase.TestLoginError" />
         <item itemvalue="TestNG.C:/Users/libw-c/test/ImoocTest/Chapter/src/main/resources/Testng.xml" />
-        <item itemvalue="TestNG.C:/Users/libw-c/test/ImoocTest/Chapter/src/main/resources/case.xml" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.BaseCase" />
       </list>
@@ -240,6 +378,11 @@
       <workItem from="1574325354916" duration="13175000" />
       <workItem from="1574500694227" duration="19000" />
       <workItem from="1574500747783" duration="6389000" />
+      <workItem from="1575111398987" duration="273000" />
+      <workItem from="1575113619588" duration="1048000" />
+      <workItem from="1575115573359" duration="2434000" />
+      <workItem from="1575124868704" duration="720000" />
+      <workItem from="1575204910042" duration="511000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;libowen-11.8&quot;">
       <created>1573200546592</created>
@@ -377,80 +520,5 @@
     <MESSAGE value="&quot;new branch dev&quot;" />
     <MESSAGE value="&quot;dev basepage push test&quot;" />
     <option name="LAST_COMMIT_MESSAGE" value="&quot;dev basepage push test&quot;" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>Chapter</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: com.aventstack:extentreports:3.0.6</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

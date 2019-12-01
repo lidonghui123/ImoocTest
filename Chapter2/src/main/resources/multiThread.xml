@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--多线程需要添加的参数，parallel = "methods"{多线程的级别是方法级别} thread-count="2"｛线程数是２个｝-->
+<!--<suite name="thread" parallel="tests" thread-count="2">-->
+<suite name="thread" parallel="tests" thread-count="2">
+    <test name="demo1">
+        <classes>
+            <class name="com.course.muchThread.MultiThreadOnXml"></class>
+        </classes>
+    </test>
+    <test name="demo2">
+        <classes>
+            <class name="com.course.muchThread.MultiThreadOnXml"></class>
+        </classes>
+    </test>
+</suite>
