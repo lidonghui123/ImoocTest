@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="自动化测试套件">
+    <test name="test_ignore">
+        <classes>
+            <class name="com.imooc.groups.GroupsOnMethod"></class>
+        </classes>
+    </test>
+</suite>
