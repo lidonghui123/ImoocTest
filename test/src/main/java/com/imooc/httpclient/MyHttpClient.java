@@ -11,7 +11,7 @@ import java.io.IOException;
 
 public class MyHttpClient {
     //测试方法
-    @Test
+
     public void test() throws IOException {
         //用来存放结果
         String result;
@@ -26,4 +26,20 @@ public class MyHttpClient {
         //dayin
         System.out.println(result);
     }
+
+    @Test
+    public void test1() throws IOException {
+        //用来存放结果
+        String result;
+        //new 一个get对象，传入网址
+        HttpGet get = new HttpGet("http://www.baidu.com");
+        //实例化一个client方法
+        CloseableHttpClient client = HttpClients.createDefault();
+        //执行get
+        CloseableHttpResponse response = client.execute(get);
+        //用Entity,toString转换response.getEntity.赋值给result
+       result= EntityUtils.toString(response.getEntity(),"utf-8");
+        System.out.println(result);
+    }
+
 }

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="测试组">
+    <test name="dde">
+        <classes>
+            <class name="com.imooc.groups.GroupsOnClass1"></class>
+            <class name="com.imooc.groups.GroupsOnClass2"></class>
+            <class name="com.imooc.groups.GroupsOnClass3"></class>
+        </classes>
+    </test>
+
+    <test name="2222">
+        <!--添加分组运行-->
+        <groups>
+            <run>
+                <!--学生组运行-->
+                <include name="stu"></include>
+                <include name="teacher"></include>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.imooc.groups.GroupsOnClass1"></class>
+            <class name="com.imooc.groups.GroupsOnClass2"></class>
+            <class name="com.imooc.groups.GroupsOnClass3"></class>
+        </classes>
+    </test>
+</suite>
