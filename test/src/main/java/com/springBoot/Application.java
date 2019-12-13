@@ -6,8 +6,12 @@ import org.springframework.context.annotation.ComponentScan;
 
 //1、标签进行托管了2、指定扫描的包，报错都没啥影响
 @SpringBootApplication
+@ComponentScan("com.springBoot.bean")
 @ComponentScan("com.springBoot.config")
 @ComponentScan("com.springBoot.server")
+//多个包扫描
+//@ComponentScan(basePackages={"com.springBoot.server","com.springBoot.bean","com.springBoot.config"})
+//@ComponentScan("com.springBoot.server")
 public class Application {
     public static void main(String[] args) {
         //固定写法

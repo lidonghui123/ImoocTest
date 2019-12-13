@@ -14,7 +14,7 @@ import java.util.Objects;
 
 //告诉它是被扫描的类
 @RestController
-@Api(value = "/",tags = "这是全部的get方法")
+@Api(value = "/",tags = "this is my get method")
 public class MyGetMethod {
 
     //此标签指定访问路径是什么？

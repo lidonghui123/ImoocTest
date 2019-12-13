@@ -35,7 +35,7 @@ public class SwaggerConfig {
                 //1、联系人 2、描述 3、版本
                 .contact(new Contact("dazhou","","132334804@qq.com"))
                 .description("这是我的swagger生成的接口文档")
-                .version("1.1")
+                .version("2.0.0")
                 .build();
     }
 }
