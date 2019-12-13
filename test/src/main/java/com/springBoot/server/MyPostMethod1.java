@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletResponse;
 // 告诉入这是要扫描的类
 @RestController
 @Api(value = "/",tags="this is my post api")
-@RequestMapping(value = "/v2")
+//@RequestMapping(value = "/v2")
 public class MyPostMethod1 {
 
     //这是存储cookies信息的变量
