@@ -62,7 +62,7 @@
         <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
-            <version>6.14.2</version>
+            <version>7.5.1</version>
             <scope>test</scope>
         </dependency>
         <!--日志打印 -->
@@ -74,7 +74,7 @@
         <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
-            <version>6.14.2</version>
+            <version>7.5.1</version>
         </dependency>
         <!--接口测试报告-->
         <dependency>
